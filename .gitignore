@@ -1,0 +1,4 @@
+*.vsix
+*.pyc
+*.class
+*.py

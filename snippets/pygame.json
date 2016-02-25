@@ -1,0 +1,2071 @@
+{
+// BufferProxy
+	"'BufferProxy' from the python's 'BufferProxy' module": {
+		"description": "'BufferProxy' from the pygame's 'BufferProxy' module",
+		"prefix": "BufferProxy",
+		"body": ["pygame.BufferProxy.BufferProxy()"]},
+	"'length' from the python's 'BufferProxy' module": {
+		"description": "'length' from the pygame's 'BufferProxy' module",
+		"prefix": "length",
+		"body": ["pygame.BufferProxy.length"]},
+	"'parent' from the python's 'BufferProxy' module": {
+		"description": "'parent' from the pygame's 'BufferProxy' module",
+		"prefix": "parent",
+		"body": ["pygame.BufferProxy.parent"]},
+	"'raw' from the python's 'BufferProxy' module": {
+		"description": "'raw' from the pygame's 'BufferProxy' module",
+		"prefix": "raw",
+		"body": ["pygame.BufferProxy.raw"]},
+// cdrom
+	"'CD' from the python's 'cdrom' module": {
+		"description": "'CD' from the pygame's 'cdrom' module",
+		"prefix": "CD",
+		"body": ["pygame.cdrom.CD()"]},
+	"'eject' from the python's 'cdrom' module": {
+		"description": "'eject' from the pygame's 'cdrom' module",
+		"prefix": "eject",
+		"body": ["pygame.cdrom.eject()"]},
+	"'get_all' from the python's 'cdrom' module": {
+		"description": "'get_all' from the pygame's 'cdrom' module",
+		"prefix": "get_all",
+		"body": ["pygame.cdrom.get_all()"]},
+	"'get_busy' from the python's 'cdrom' module": {
+		"description": "'get_busy' from the pygame's 'cdrom' module",
+		"prefix": "get_busy",
+		"body": ["pygame.cdrom.get_busy()"]},
+	"'get_count' from the python's 'cdrom' module": {
+		"description": "'get_count' from the pygame's 'cdrom' module",
+		"prefix": "get_count",
+		"body": ["pygame.cdrom.get_count()"]},
+	"'get_current' from the python's 'cdrom' module": {
+		"description": "'get_current' from the pygame's 'cdrom' module",
+		"prefix": "get_current",
+		"body": ["pygame.cdrom.get_current()"]},
+	"'get_empty' from the python's 'cdrom' module": {
+		"description": "'get_empty' from the pygame's 'cdrom' module",
+		"prefix": "get_empty",
+		"body": ["pygame.cdrom.get_empty()"]},
+	"'get_id' from the python's 'cdrom' module": {
+		"description": "'get_id' from the pygame's 'cdrom' module",
+		"prefix": "get_id",
+		"body": ["pygame.cdrom.get_id()"]},
+	"'get_init' from the python's 'cdrom' module": {
+		"description": "'get_init' from the pygame's 'cdrom' module",
+		"prefix": "get_init",
+		"body": ["pygame.cdrom.get_init()"]},
+	"'get_name' from the python's 'cdrom' module": {
+		"description": "'get_name' from the pygame's 'cdrom' module",
+		"prefix": "get_name",
+		"body": ["pygame.cdrom.get_name()"]},
+	"'get_numtracks' from the python's 'cdrom' module": {
+		"description": "'get_numtracks' from the pygame's 'cdrom' module",
+		"prefix": "get_numtracks",
+		"body": ["pygame.cdrom.get_numtracks()"]},
+	"'get_paused' from the python's 'cdrom' module": {
+		"description": "'get_paused' from the pygame's 'cdrom' module",
+		"prefix": "get_paused",
+		"body": ["pygame.cdrom.get_paused()"]},
+	"'get_track_audio' from the python's 'cdrom' module": {
+		"description": "'get_track_audio' from the pygame's 'cdrom' module",
+		"prefix": "get_track_audio",
+		"body": ["pygame.cdrom.get_track_audio()"]},
+	"'get_track_length' from the python's 'cdrom' module": {
+		"description": "'get_track_length' from the pygame's 'cdrom' module",
+		"prefix": "get_track_length",
+		"body": ["pygame.cdrom.get_track_length()"]},
+	"'get_track_start' from the python's 'cdrom' module": {
+		"description": "'get_track_start' from the pygame's 'cdrom' module",
+		"prefix": "get_track_start",
+		"body": ["pygame.cdrom.get_track_start()"]},
+	"'init' from the python's 'cdrom' module": {
+		"description": "'init' from the pygame's 'cdrom' module",
+		"prefix": "init",
+		"body": ["pygame.cdrom.init()"]},
+	"'pause' from the python's 'cdrom' module": {
+		"description": "'pause' from the pygame's 'cdrom' module",
+		"prefix": "pause",
+		"body": ["pygame.cdrom.pause()"]},
+	"'play' from the python's 'cdrom' module": {
+		"description": "'play' from the pygame's 'cdrom' module",
+		"prefix": "play",
+		"body": ["pygame.cdrom.play(${1:track}, ${2:start=None}, ${3:end=None})"]},
+	"'quit' from the python's 'cdrom' module": {
+		"description": "'quit' from the pygame's 'cdrom' module",
+		"prefix": "quit",
+		"body": ["pygame.cdrom.quit()"]},
+	"'resume' from the python's 'cdrom' module": {
+		"description": "'resume' from the pygame's 'cdrom' module",
+		"prefix": "resume",
+		"body": ["pygame.cdrom.resume()"]},
+	"'stop' from the python's 'cdrom' module": {
+		"description": "'stop' from the pygame's 'cdrom' module",
+		"prefix": "stop",
+		"body": ["pygame.cdrom.stop()"]},
+// Color
+	"'Color' from the python's 'Color' module": {
+		"description": "'Color' from the pygame's 'Color' module",
+		"prefix": "Color",
+		"body": ["pygame.Color.Color()"]},
+	"'Color' from the python's 'Color' module": {
+		"description": "'Color' from the pygame's 'Color' module",
+		"prefix": "Color",
+		"body": ["pygame.Color.Color(${1:r}, ${2:g}, ${3:b}, ${4:a})"]},
+	"'Color' from the python's 'Color' module": {
+		"description": "'Color' from the pygame's 'Color' module",
+		"prefix": "Color",
+		"body": ["pygame.Color.Color()"]},
+	"'a' from the python's 'Color' module": {
+		"description": "'a' from the pygame's 'Color' module",
+		"prefix": "a",
+		"body": ["pygame.Color.a"]},
+	"'b' from the python's 'Color' module": {
+		"description": "'b' from the pygame's 'Color' module",
+		"prefix": "b",
+		"body": ["pygame.Color.b"]},
+	"'cmy' from the python's 'Color' module": {
+		"description": "'cmy' from the pygame's 'Color' module",
+		"prefix": "cmy",
+		"body": ["pygame.Color.cmy"]},
+	"'correct_gamma ' from the python's 'Color' module": {
+		"description": "'correct_gamma ' from the pygame's 'Color' module",
+		"prefix": "correct_gamma ",
+		"body": ["pygame.Color.correct_gamma ()"]},
+	"'g' from the python's 'Color' module": {
+		"description": "'g' from the pygame's 'Color' module",
+		"prefix": "g",
+		"body": ["pygame.Color.g"]},
+	"'hsla' from the python's 'Color' module": {
+		"description": "'hsla' from the pygame's 'Color' module",
+		"prefix": "hsla",
+		"body": ["pygame.Color.hsla"]},
+	"'hsva' from the python's 'Color' module": {
+		"description": "'hsva' from the pygame's 'Color' module",
+		"prefix": "hsva",
+		"body": ["pygame.Color.hsva"]},
+	"'i1i2i3' from the python's 'Color' module": {
+		"description": "'i1i2i3' from the pygame's 'Color' module",
+		"prefix": "i1i2i3",
+		"body": ["pygame.Color.i1i2i3"]},
+	"'normalize' from the python's 'Color' module": {
+		"description": "'normalize' from the pygame's 'Color' module",
+		"prefix": "normalize",
+		"body": ["pygame.Color.normalize()"]},
+	"'r' from the python's 'Color' module": {
+		"description": "'r' from the pygame's 'Color' module",
+		"prefix": "r",
+		"body": ["pygame.Color.r"]},
+	"'set_length' from the python's 'Color' module": {
+		"description": "'set_length' from the pygame's 'Color' module",
+		"prefix": "set_length",
+		"body": ["pygame.Color.set_length()"]},
+// cursors
+	"'compile' from the python's 'cursors' module": {
+		"description": "'compile' from the pygame's 'cursors' module",
+		"prefix": "compile",
+		"body": ["pygame.cursors.compile(${1:strings}, ${2:black='X'}, ${3:white='.'}, ${4:xor='o'})"]},
+	"'load_xbm' from the python's 'cursors' module": {
+		"description": "'load_xbm' from the pygame's 'cursors' module",
+		"prefix": "load_xbm",
+		"body": ["pygame.cursors.load_xbm()"]},
+	"'load_xbm' from the python's 'cursors' module": {
+		"description": "'load_xbm' from the pygame's 'cursors' module",
+		"prefix": "load_xbm",
+		"body": ["pygame.cursors.load_xbm(${1:cursorfile}, ${2:maskfile})"]},
+// display
+	"'Info' from the python's 'display' module": {
+		"description": "'Info' from the pygame's 'display' module",
+		"prefix": "Info",
+		"body": ["pygame.display.Info()"]},
+	"'flip' from the python's 'display' module": {
+		"description": "'flip' from the pygame's 'display' module",
+		"prefix": "flip",
+		"body": ["pygame.display.flip()"]},
+	"'get_active' from the python's 'display' module": {
+		"description": "'get_active' from the pygame's 'display' module",
+		"prefix": "get_active",
+		"body": ["pygame.display.get_active()"]},
+	"'get_caption' from the python's 'display' module": {
+		"description": "'get_caption' from the pygame's 'display' module",
+		"prefix": "get_caption",
+		"body": ["pygame.display.get_caption()"]},
+	"'get_driver' from the python's 'display' module": {
+		"description": "'get_driver' from the pygame's 'display' module",
+		"prefix": "get_driver",
+		"body": ["pygame.display.get_driver()"]},
+	"'get_init' from the python's 'display' module": {
+		"description": "'get_init' from the pygame's 'display' module",
+		"prefix": "get_init",
+		"body": ["pygame.display.get_init()"]},
+	"'get_surface' from the python's 'display' module": {
+		"description": "'get_surface' from the pygame's 'display' module",
+		"prefix": "get_surface",
+		"body": ["pygame.display.get_surface()"]},
+	"'get_wm_info' from the python's 'display' module": {
+		"description": "'get_wm_info' from the pygame's 'display' module",
+		"prefix": "get_wm_info",
+		"body": ["pygame.display.get_wm_info()"]},
+	"'gl_get_attribute' from the python's 'display' module": {
+		"description": "'gl_get_attribute' from the pygame's 'display' module",
+		"prefix": "gl_get_attribute",
+		"body": ["pygame.display.gl_get_attribute()"]},
+	"'gl_set_attribute' from the python's 'display' module": {
+		"description": "'gl_set_attribute' from the pygame's 'display' module",
+		"prefix": "gl_set_attribute",
+		"body": ["pygame.display.gl_set_attribute(${1:flag}, ${2:value})"]},
+	"'iconify' from the python's 'display' module": {
+		"description": "'iconify' from the pygame's 'display' module",
+		"prefix": "iconify",
+		"body": ["pygame.display.iconify()"]},
+	"'init' from the python's 'display' module": {
+		"description": "'init' from the pygame's 'display' module",
+		"prefix": "init",
+		"body": ["pygame.display.init()"]},
+	"'list_modes' from the python's 'display' module": {
+		"description": "'list_modes' from the pygame's 'display' module",
+		"prefix": "list_modes",
+		"body": ["pygame.display.list_modes(${1:depth=0}, ${2:flags=pygame.FULLSCREEN})"]},
+	"'mode_ok' from the python's 'display' module": {
+		"description": "'mode_ok' from the pygame's 'display' module",
+		"prefix": "mode_ok",
+		"body": ["pygame.display.mode_ok(${1:size}, ${2:flags=0}, ${3:depth=0})"]},
+	"'quit' from the python's 'display' module": {
+		"description": "'quit' from the pygame's 'display' module",
+		"prefix": "quit",
+		"body": ["pygame.display.quit()"]},
+	"'set_caption' from the python's 'display' module": {
+		"description": "'set_caption' from the pygame's 'display' module",
+		"prefix": "set_caption",
+		"body": ["pygame.display.set_caption(${1:title}, ${2:icontitle=None})"]},
+	"'set_gamma' from the python's 'display' module": {
+		"description": "'set_gamma' from the pygame's 'display' module",
+		"prefix": "set_gamma",
+		"body": ["pygame.display.set_gamma(${1:red}, ${2:green=None}, ${3:blue=None})"]},
+	"'set_gamma_ramp' from the python's 'display' module": {
+		"description": "'set_gamma_ramp' from the pygame's 'display' module",
+		"prefix": "set_gamma_ramp",
+		"body": ["pygame.display.set_gamma_ramp(${1:red}, ${2:green}, ${3:blue})"]},
+	"'set_icon' from the python's 'display' module": {
+		"description": "'set_icon' from the pygame's 'display' module",
+		"prefix": "set_icon",
+		"body": ["pygame.display.set_icon()"]},
+	"'set_mode' from the python's 'display' module": {
+		"description": "'set_mode' from the pygame's 'display' module",
+		"prefix": "set_mode",
+		"body": ["pygame.display.set_mode(${1:resolution=0}, ${2:0})"]},
+	"'set_palette' from the python's 'display' module": {
+		"description": "'set_palette' from the pygame's 'display' module",
+		"prefix": "set_palette",
+		"body": ["pygame.display.set_palette()"]},
+	"'toggle_fullscreen' from the python's 'display' module": {
+		"description": "'toggle_fullscreen' from the pygame's 'display' module",
+		"prefix": "toggle_fullscreen",
+		"body": ["pygame.display.toggle_fullscreen()"]},
+	"'update' from the python's 'display' module": {
+		"description": "'update' from the pygame's 'display' module",
+		"prefix": "update",
+		"body": ["pygame.display.update()"]},
+	"'update' from the python's 'display' module": {
+		"description": "'update' from the pygame's 'display' module",
+		"prefix": "update",
+		"body": ["pygame.display.update()"]},
+// draw
+	"'aaline' from the python's 'draw' module": {
+		"description": "'aaline' from the pygame's 'draw' module",
+		"prefix": "aaline",
+		"body": ["pygame.draw.aaline(${1:Surface}, ${2:color}, ${3:startpos}, ${4:endpos}, ${5:blend=1})"]},
+	"'aalines' from the python's 'draw' module": {
+		"description": "'aalines' from the pygame's 'draw' module",
+		"prefix": "aalines",
+		"body": ["pygame.draw.aalines(${1:Surface}, ${2:color}, ${3:closed}, ${4:pointlist}, ${5:blend=1})"]},
+	"'arc' from the python's 'draw' module": {
+		"description": "'arc' from the pygame's 'draw' module",
+		"prefix": "arc",
+		"body": ["pygame.draw.arc(${1:Surface}, ${2:color}, ${3:Rect}, ${4:start_angle}, ${5:stop_angle}, ${6:width=1})"]},
+	"'circle' from the python's 'draw' module": {
+		"description": "'circle' from the pygame's 'draw' module",
+		"prefix": "circle",
+		"body": ["pygame.draw.circle(${1:Surface}, ${2:color}, ${3:pos}, ${4:radius}, ${5:width=0})"]},
+	"'ellipse' from the python's 'draw' module": {
+		"description": "'ellipse' from the pygame's 'draw' module",
+		"prefix": "ellipse",
+		"body": ["pygame.draw.ellipse(${1:Surface}, ${2:color}, ${3:Rect}, ${4:width=0})"]},
+	"'line' from the python's 'draw' module": {
+		"description": "'line' from the pygame's 'draw' module",
+		"prefix": "line",
+		"body": ["pygame.draw.line(${1:Surface}, ${2:color}, ${3:start_pos}, ${4:end_pos}, ${5:width=1})"]},
+	"'lines' from the python's 'draw' module": {
+		"description": "'lines' from the pygame's 'draw' module",
+		"prefix": "lines",
+		"body": ["pygame.draw.lines(${1:Surface}, ${2:color}, ${3:closed}, ${4:pointlist}, ${5:width=1})"]},
+	"'polygon' from the python's 'draw' module": {
+		"description": "'polygon' from the pygame's 'draw' module",
+		"prefix": "polygon",
+		"body": ["pygame.draw.polygon(${1:Surface}, ${2:color}, ${3:pointlist}, ${4:width=0})"]},
+	"'rect' from the python's 'draw' module": {
+		"description": "'rect' from the pygame's 'draw' module",
+		"prefix": "rect",
+		"body": ["pygame.draw.rect(${1:Surface}, ${2:color}, ${3:Rect}, ${4:width=0})"]},
+// event
+	"'Event' from the python's 'event' module": {
+		"description": "'Event' from the pygame's 'event' module",
+		"prefix": "Event",
+		"body": ["pygame.event.Event(${1:type}, ${2:**attributes})"]},
+	"'Event' from the python's 'event' module": {
+		"description": "'Event' from the pygame's 'event' module",
+		"prefix": "Event",
+		"body": ["pygame.event.Event(${1:type}, ${2:dict})"]},
+	"'__dict__' from the python's 'event' module": {
+		"description": "'__dict__' from the pygame's 'event' module",
+		"prefix": "__dict__",
+		"body": ["pygame.event.__dict__"]},
+	"'clear' from the python's 'event' module": {
+		"description": "'clear' from the pygame's 'event' module",
+		"prefix": "clear",
+		"body": ["pygame.event.clear()"]},
+	"'clear' from the python's 'event' module": {
+		"description": "'clear' from the pygame's 'event' module",
+		"prefix": "clear",
+		"body": ["pygame.event.clear()"]},
+	"'clear' from the python's 'event' module": {
+		"description": "'clear' from the pygame's 'event' module",
+		"prefix": "clear",
+		"body": ["pygame.event.clear()"]},
+	"'event_name' from the python's 'event' module": {
+		"description": "'event_name' from the pygame's 'event' module",
+		"prefix": "event_name",
+		"body": ["pygame.event.event_name()"]},
+	"'get' from the python's 'event' module": {
+		"description": "'get' from the pygame's 'event' module",
+		"prefix": "get",
+		"body": ["pygame.event.get()"]},
+	"'get' from the python's 'event' module": {
+		"description": "'get' from the pygame's 'event' module",
+		"prefix": "get",
+		"body": ["pygame.event.get()"]},
+	"'get' from the python's 'event' module": {
+		"description": "'get' from the pygame's 'event' module",
+		"prefix": "get",
+		"body": ["pygame.event.get()"]},
+	"'get_blocked' from the python's 'event' module": {
+		"description": "'get_blocked' from the pygame's 'event' module",
+		"prefix": "get_blocked",
+		"body": ["pygame.event.get_blocked()"]},
+	"'get_grab' from the python's 'event' module": {
+		"description": "'get_grab' from the pygame's 'event' module",
+		"prefix": "get_grab",
+		"body": ["pygame.event.get_grab()"]},
+	"'peek' from the python's 'event' module": {
+		"description": "'peek' from the pygame's 'event' module",
+		"prefix": "peek",
+		"body": ["pygame.event.peek()"]},
+	"'peek' from the python's 'event' module": {
+		"description": "'peek' from the pygame's 'event' module",
+		"prefix": "peek",
+		"body": ["pygame.event.peek()"]},
+	"'poll' from the python's 'event' module": {
+		"description": "'poll' from the pygame's 'event' module",
+		"prefix": "poll",
+		"body": ["pygame.event.poll()"]},
+	"'post' from the python's 'event' module": {
+		"description": "'post' from the pygame's 'event' module",
+		"prefix": "post",
+		"body": ["pygame.event.post()"]},
+	"'pump' from the python's 'event' module": {
+		"description": "'pump' from the pygame's 'event' module",
+		"prefix": "pump",
+		"body": ["pygame.event.pump()"]},
+	"'set_allowed' from the python's 'event' module": {
+		"description": "'set_allowed' from the pygame's 'event' module",
+		"prefix": "set_allowed",
+		"body": ["pygame.event.set_allowed()"]},
+	"'set_allowed' from the python's 'event' module": {
+		"description": "'set_allowed' from the pygame's 'event' module",
+		"prefix": "set_allowed",
+		"body": ["pygame.event.set_allowed()"]},
+	"'set_allowed' from the python's 'event' module": {
+		"description": "'set_allowed' from the pygame's 'event' module",
+		"prefix": "set_allowed",
+		"body": ["pygame.event.set_allowed()"]},
+	"'set_blocked' from the python's 'event' module": {
+		"description": "'set_blocked' from the pygame's 'event' module",
+		"prefix": "set_blocked",
+		"body": ["pygame.event.set_blocked()"]},
+	"'set_blocked' from the python's 'event' module": {
+		"description": "'set_blocked' from the pygame's 'event' module",
+		"prefix": "set_blocked",
+		"body": ["pygame.event.set_blocked()"]},
+	"'set_blocked' from the python's 'event' module": {
+		"description": "'set_blocked' from the pygame's 'event' module",
+		"prefix": "set_blocked",
+		"body": ["pygame.event.set_blocked()"]},
+	"'set_grab' from the python's 'event' module": {
+		"description": "'set_grab' from the pygame's 'event' module",
+		"prefix": "set_grab",
+		"body": ["pygame.event.set_grab()"]},
+	"'type' from the python's 'event' module": {
+		"description": "'type' from the pygame's 'event' module",
+		"prefix": "type",
+		"body": ["pygame.event.type"]},
+	"'wait' from the python's 'event' module": {
+		"description": "'wait' from the pygame's 'event' module",
+		"prefix": "wait",
+		"body": ["pygame.event.wait()"]},
+// examples
+	"'aliens.main' from the python's 'examples' module": {
+		"description": "'aliens.main' from the pygame's 'examples' module",
+		"prefix": "aliens.main",
+		"body": ["pygame.examples.aliens.main()"]},
+	"'arraydemo.main' from the python's 'examples' module": {
+		"description": "'arraydemo.main' from the pygame's 'examples' module",
+		"prefix": "arraydemo.main",
+		"body": ["pygame.examples.arraydemo.main()"]},
+	"'blend_fill.main' from the python's 'examples' module": {
+		"description": "'blend_fill.main' from the pygame's 'examples' module",
+		"prefix": "blend_fill.main",
+		"body": ["pygame.examples.blend_fill.main()"]},
+	"'blit_blends.main' from the python's 'examples' module": {
+		"description": "'blit_blends.main' from the pygame's 'examples' module",
+		"prefix": "blit_blends.main",
+		"body": ["pygame.examples.blit_blends.main()"]},
+	"'camera.main' from the python's 'examples' module": {
+		"description": "'camera.main' from the pygame's 'examples' module",
+		"prefix": "camera.main",
+		"body": ["pygame.examples.camera.main()"]},
+	"'chimp.main' from the python's 'examples' module": {
+		"description": "'chimp.main' from the pygame's 'examples' module",
+		"prefix": "chimp.main",
+		"body": ["pygame.examples.chimp.main()"]},
+	"'cursors.main' from the python's 'examples' module": {
+		"description": "'cursors.main' from the pygame's 'examples' module",
+		"prefix": "cursors.main",
+		"body": ["pygame.examples.cursors.main()"]},
+	"'eventlist.main' from the python's 'examples' module": {
+		"description": "'eventlist.main' from the pygame's 'examples' module",
+		"prefix": "eventlist.main",
+		"body": ["pygame.examples.eventlist.main()"]},
+	"'fastevents.main' from the python's 'examples' module": {
+		"description": "'fastevents.main' from the pygame's 'examples' module",
+		"prefix": "fastevents.main",
+		"body": ["pygame.examples.fastevents.main()"]},
+	"'fonty.main' from the python's 'examples' module": {
+		"description": "'fonty.main' from the pygame's 'examples' module",
+		"prefix": "fonty.main",
+		"body": ["pygame.examples.fonty.main()"]},
+	"'freetype_misc.main' from the python's 'examples' module": {
+		"description": "'freetype_misc.main' from the pygame's 'examples' module",
+		"prefix": "freetype_misc.main",
+		"body": ["pygame.examples.freetype_misc.main()"]},
+	"'glcube.main' from the python's 'examples' module": {
+		"description": "'glcube.main' from the pygame's 'examples' module",
+		"prefix": "glcube.main",
+		"body": ["pygame.examples.glcube.main()"]},
+	"'headless_no_windows_needed.main' from the python's 'examples' module": {
+		"description": "'headless_no_windows_needed.main' from the pygame's 'examples' module",
+		"prefix": "headless_no_windows_needed.main",
+		"body": ["pygame.examples.headless_no_windows_needed.main(${1:fin}, ${2:fout}, ${3:w}, ${4:h})"]},
+	"'liquid.main' from the python's 'examples' module": {
+		"description": "'liquid.main' from the pygame's 'examples' module",
+		"prefix": "liquid.main",
+		"body": ["pygame.examples.liquid.main()"]},
+	"'mask.main' from the python's 'examples' module": {
+		"description": "'mask.main' from the pygame's 'examples' module",
+		"prefix": "mask.main",
+		"body": ["pygame.examples.mask.main()"]},
+	"'midi.main' from the python's 'examples' module": {
+		"description": "'midi.main' from the pygame's 'examples' module",
+		"prefix": "midi.main",
+		"body": ["pygame.examples.midi.main(${1:mode='output'}, ${2:device_id=None})"]},
+	"'moveit.main' from the python's 'examples' module": {
+		"description": "'moveit.main' from the pygame's 'examples' module",
+		"prefix": "moveit.main",
+		"body": ["pygame.examples.moveit.main()"]},
+	"'oldalien.main' from the python's 'examples' module": {
+		"description": "'oldalien.main' from the pygame's 'examples' module",
+		"prefix": "oldalien.main",
+		"body": ["pygame.examples.oldalien.main()"]},
+	"'overlay.main' from the python's 'examples' module": {
+		"description": "'overlay.main' from the pygame's 'examples' module",
+		"prefix": "overlay.main",
+		"body": ["pygame.examples.overlay.main()"]},
+	"'pixelarray.main' from the python's 'examples' module": {
+		"description": "'pixelarray.main' from the pygame's 'examples' module",
+		"prefix": "pixelarray.main",
+		"body": ["pygame.examples.pixelarray.main()"]},
+	"'playmus.main' from the python's 'examples' module": {
+		"description": "'playmus.main' from the pygame's 'examples' module",
+		"prefix": "playmus.main",
+		"body": ["pygame.examples.playmus.main()"]},
+	"'scaletest.main' from the python's 'examples' module": {
+		"description": "'scaletest.main' from the pygame's 'examples' module",
+		"prefix": "scaletest.main",
+		"body": ["pygame.examples.scaletest.main(${1:imagefile}, ${2:convert_alpha=False}, ${3:run_speed_test=True})"]},
+	"'scrap_clipboard.main' from the python's 'examples' module": {
+		"description": "'scrap_clipboard.main' from the pygame's 'examples' module",
+		"prefix": "scrap_clipboard.main",
+		"body": ["pygame.examples.scrap_clipboard.main()"]},
+	"'scroll.main' from the python's 'examples' module": {
+		"description": "'scroll.main' from the pygame's 'examples' module",
+		"prefix": "scroll.main",
+		"body": ["pygame.examples.scroll.main()"]},
+	"'sound.main' from the python's 'examples' module": {
+		"description": "'sound.main' from the pygame's 'examples' module",
+		"prefix": "sound.main",
+		"body": ["pygame.examples.sound.main()"]},
+	"'sound_array_demos.main' from the python's 'examples' module": {
+		"description": "'sound_array_demos.main' from the pygame's 'examples' module",
+		"prefix": "sound_array_demos.main",
+		"body": ["pygame.examples.sound_array_demos.main()"]},
+	"'stars.main' from the python's 'examples' module": {
+		"description": "'stars.main' from the pygame's 'examples' module",
+		"prefix": "stars.main",
+		"body": ["pygame.examples.stars.main()"]},
+	"'testsprite.main' from the python's 'examples' module": {
+		"description": "'testsprite.main' from the pygame's 'examples' module",
+		"prefix": "testsprite.main",
+		"body": ["pygame.examples.testsprite.main(${1:update_rects = True}, ${2:use_static = False}, ${3:use_FastRenderGroup = False}, ${4:screen_dims = [640}, ${5:480]}, ${6:use_alpha = False}, ${7:flags = 0})"]},
+	"'vgrade.main' from the python's 'examples' module": {
+		"description": "'vgrade.main' from the pygame's 'examples' module",
+		"prefix": "vgrade.main",
+		"body": ["pygame.examples.vgrade.main()"]},
+// font
+	"'Font' from the python's 'font' module": {
+		"description": "'Font' from the pygame's 'font' module",
+		"prefix": "Font",
+		"body": ["pygame.font.Font(${1:filename}, ${2:size})"]},
+	"'Font' from the python's 'font' module": {
+		"description": "'Font' from the pygame's 'font' module",
+		"prefix": "Font",
+		"body": ["pygame.font.Font(${1:object}, ${2:size})"]},
+	"'SysFont' from the python's 'font' module": {
+		"description": "'SysFont' from the pygame's 'font' module",
+		"prefix": "SysFont",
+		"body": ["pygame.font.SysFont(${1:name}, ${2:size}, ${3:bold=False}, ${4:italic=False})"]},
+	"'get_ascent' from the python's 'font' module": {
+		"description": "'get_ascent' from the pygame's 'font' module",
+		"prefix": "get_ascent",
+		"body": ["pygame.font.get_ascent()"]},
+	"'get_bold' from the python's 'font' module": {
+		"description": "'get_bold' from the pygame's 'font' module",
+		"prefix": "get_bold",
+		"body": ["pygame.font.get_bold()"]},
+	"'get_default_font' from the python's 'font' module": {
+		"description": "'get_default_font' from the pygame's 'font' module",
+		"prefix": "get_default_font",
+		"body": ["pygame.font.get_default_font()"]},
+	"'get_descent' from the python's 'font' module": {
+		"description": "'get_descent' from the pygame's 'font' module",
+		"prefix": "get_descent",
+		"body": ["pygame.font.get_descent()"]},
+	"'get_fonts' from the python's 'font' module": {
+		"description": "'get_fonts' from the pygame's 'font' module",
+		"prefix": "get_fonts",
+		"body": ["pygame.font.get_fonts()"]},
+	"'get_height' from the python's 'font' module": {
+		"description": "'get_height' from the pygame's 'font' module",
+		"prefix": "get_height",
+		"body": ["pygame.font.get_height()"]},
+	"'get_init' from the python's 'font' module": {
+		"description": "'get_init' from the pygame's 'font' module",
+		"prefix": "get_init",
+		"body": ["pygame.font.get_init()"]},
+	"'get_italic' from the python's 'font' module": {
+		"description": "'get_italic' from the pygame's 'font' module",
+		"prefix": "get_italic",
+		"body": ["pygame.font.get_italic()"]},
+	"'get_linesize' from the python's 'font' module": {
+		"description": "'get_linesize' from the pygame's 'font' module",
+		"prefix": "get_linesize",
+		"body": ["pygame.font.get_linesize()"]},
+	"'get_underline' from the python's 'font' module": {
+		"description": "'get_underline' from the pygame's 'font' module",
+		"prefix": "get_underline",
+		"body": ["pygame.font.get_underline()"]},
+	"'init' from the python's 'font' module": {
+		"description": "'init' from the pygame's 'font' module",
+		"prefix": "init",
+		"body": ["pygame.font.init()"]},
+	"'match_font' from the python's 'font' module": {
+		"description": "'match_font' from the pygame's 'font' module",
+		"prefix": "match_font",
+		"body": ["pygame.font.match_font(${1:name}, ${2:bold=False}, ${3:italic=False})"]},
+	"'metrics' from the python's 'font' module": {
+		"description": "'metrics' from the pygame's 'font' module",
+		"prefix": "metrics",
+		"body": ["pygame.font.metrics()"]},
+	"'quit' from the python's 'font' module": {
+		"description": "'quit' from the pygame's 'font' module",
+		"prefix": "quit",
+		"body": ["pygame.font.quit()"]},
+	"'render' from the python's 'font' module": {
+		"description": "'render' from the pygame's 'font' module",
+		"prefix": "render",
+		"body": ["pygame.font.render(${1:text}, ${2:antialias}, ${3:color}, ${4:background=None})"]},
+	"'set_bold' from the python's 'font' module": {
+		"description": "'set_bold' from the pygame's 'font' module",
+		"prefix": "set_bold",
+		"body": ["pygame.font.set_bold()"]},
+	"'set_italic' from the python's 'font' module": {
+		"description": "'set_italic' from the pygame's 'font' module",
+		"prefix": "set_italic",
+		"body": ["pygame.font.set_italic()"]},
+	"'set_underline' from the python's 'font' module": {
+		"description": "'set_underline' from the pygame's 'font' module",
+		"prefix": "set_underline",
+		"body": ["pygame.font.set_underline()"]},
+	"'size' from the python's 'font' module": {
+		"description": "'size' from the pygame's 'font' module",
+		"prefix": "size",
+		"body": ["pygame.font.size()"]},
+// freetype
+	"'Font' from the python's 'freetype' module": {
+		"description": "'Font' from the pygame's 'freetype' module",
+		"prefix": "Font",
+		"body": ["pygame.freetype.Font(${1:file}, ${2:size=0}, ${3:font_index=0}, ${4:resolution=0}, ${5:ucs4=False})"]},
+	"'SysFont' from the python's 'freetype' module": {
+		"description": "'SysFont' from the pygame's 'freetype' module",
+		"prefix": "SysFont",
+		"body": ["pygame.freetype.SysFont(${1:name}, ${2:size}, ${3:bold=False}, ${4:italic=False})"]},
+	"'antialiased' from the python's 'freetype' module": {
+		"description": "'antialiased' from the pygame's 'freetype' module",
+		"prefix": "antialiased",
+		"body": ["pygame.freetype.antialiased"]},
+	"'ascender' from the python's 'freetype' module": {
+		"description": "'ascender' from the pygame's 'freetype' module",
+		"prefix": "ascender",
+		"body": ["pygame.freetype.ascender"]},
+	"'descender' from the python's 'freetype' module": {
+		"description": "'descender' from the pygame's 'freetype' module",
+		"prefix": "descender",
+		"body": ["pygame.freetype.descender"]},
+	"'fgcolor' from the python's 'freetype' module": {
+		"description": "'fgcolor' from the pygame's 'freetype' module",
+		"prefix": "fgcolor",
+		"body": ["pygame.freetype.fgcolor"]},
+	"'fixed_sizes' from the python's 'freetype' module": {
+		"description": "'fixed_sizes' from the pygame's 'freetype' module",
+		"prefix": "fixed_sizes",
+		"body": ["pygame.freetype.fixed_sizes"]},
+	"'fixed_width' from the python's 'freetype' module": {
+		"description": "'fixed_width' from the pygame's 'freetype' module",
+		"prefix": "fixed_width",
+		"body": ["pygame.freetype.fixed_width"]},
+	"'get_cache_size' from the python's 'freetype' module": {
+		"description": "'get_cache_size' from the pygame's 'freetype' module",
+		"prefix": "get_cache_size",
+		"body": ["pygame.freetype.get_cache_size()"]},
+	"'get_default_font' from the python's 'freetype' module": {
+		"description": "'get_default_font' from the pygame's 'freetype' module",
+		"prefix": "get_default_font",
+		"body": ["pygame.freetype.get_default_font()"]},
+	"'get_default_resolution' from the python's 'freetype' module": {
+		"description": "'get_default_resolution' from the pygame's 'freetype' module",
+		"prefix": "get_default_resolution",
+		"body": ["pygame.freetype.get_default_resolution()"]},
+	"'get_error' from the python's 'freetype' module": {
+		"description": "'get_error' from the pygame's 'freetype' module",
+		"prefix": "get_error",
+		"body": ["pygame.freetype.get_error()"]},
+	"'get_metrics' from the python's 'freetype' module": {
+		"description": "'get_metrics' from the pygame's 'freetype' module",
+		"prefix": "get_metrics",
+		"body": ["pygame.freetype.get_metrics(${1:text}, ${2:size=0})"]},
+	"'get_rect' from the python's 'freetype' module": {
+		"description": "'get_rect' from the pygame's 'freetype' module",
+		"prefix": "get_rect",
+		"body": ["pygame.freetype.get_rect(${1:text}, ${2:style=STYLE_DEFAULT}, ${3:rotation=0}, ${4:size=0})"]},
+	"'get_sized_ascender' from the python's 'freetype' module": {
+		"description": "'get_sized_ascender' from the pygame's 'freetype' module",
+		"prefix": "get_sized_ascender",
+		"body": ["pygame.freetype.get_sized_ascender()"]},
+	"'get_sized_descender' from the python's 'freetype' module": {
+		"description": "'get_sized_descender' from the pygame's 'freetype' module",
+		"prefix": "get_sized_descender",
+		"body": ["pygame.freetype.get_sized_descender()"]},
+	"'get_sized_glyph_height' from the python's 'freetype' module": {
+		"description": "'get_sized_glyph_height' from the pygame's 'freetype' module",
+		"prefix": "get_sized_glyph_height",
+		"body": ["pygame.freetype.get_sized_glyph_height()"]},
+	"'get_sized_height' from the python's 'freetype' module": {
+		"description": "'get_sized_height' from the pygame's 'freetype' module",
+		"prefix": "get_sized_height",
+		"body": ["pygame.freetype.get_sized_height()"]},
+	"'get_sizes' from the python's 'freetype' module": {
+		"description": "'get_sizes' from the pygame's 'freetype' module",
+		"prefix": "get_sizes",
+		"body": ["pygame.freetype.get_sizes()"]},
+	"'get_version' from the python's 'freetype' module": {
+		"description": "'get_version' from the pygame's 'freetype' module",
+		"prefix": "get_version",
+		"body": ["pygame.freetype.get_version()"]},
+	"'height' from the python's 'freetype' module": {
+		"description": "'height' from the pygame's 'freetype' module",
+		"prefix": "height",
+		"body": ["pygame.freetype.height"]},
+	"'kerning' from the python's 'freetype' module": {
+		"description": "'kerning' from the pygame's 'freetype' module",
+		"prefix": "kerning",
+		"body": ["pygame.freetype.kerning"]},
+	"'name' from the python's 'freetype' module": {
+		"description": "'name' from the pygame's 'freetype' module",
+		"prefix": "name",
+		"body": ["pygame.freetype.name"]},
+	"'oblique' from the python's 'freetype' module": {
+		"description": "'oblique' from the pygame's 'freetype' module",
+		"prefix": "oblique",
+		"body": ["pygame.freetype.oblique"]},
+	"'origin' from the python's 'freetype' module": {
+		"description": "'origin' from the pygame's 'freetype' module",
+		"prefix": "origin",
+		"body": ["pygame.freetype.origin"]},
+	"'pad' from the python's 'freetype' module": {
+		"description": "'pad' from the pygame's 'freetype' module",
+		"prefix": "pad",
+		"body": ["pygame.freetype.pad"]},
+	"'path' from the python's 'freetype' module": {
+		"description": "'path' from the pygame's 'freetype' module",
+		"prefix": "path",
+		"body": ["pygame.freetype.path"]},
+	"'render' from the python's 'freetype' module": {
+		"description": "'render' from the pygame's 'freetype' module",
+		"prefix": "render",
+		"body": ["pygame.freetype.render(${1:text}, ${2:fgcolor=None}, ${3:bgcolor=None}, ${4:style=STYLE_DEFAULT}, ${5:rotation=0}, ${6:size=0})"]},
+	"'render_raw' from the python's 'freetype' module": {
+		"description": "'render_raw' from the pygame's 'freetype' module",
+		"prefix": "render_raw",
+		"body": ["pygame.freetype.render_raw(${1:text}, ${2:style=STYLE_DEFAULT}, ${3:rotation=0}, ${4:size=0}, ${5:invert=False})"]},
+	"'render_raw_to' from the python's 'freetype' module": {
+		"description": "'render_raw_to' from the pygame's 'freetype' module",
+		"prefix": "render_raw_to",
+		"body": ["pygame.freetype.render_raw_to(${1:array}, ${2:text}, ${3:dest=None}, ${4:style=STYLE_DEFAULT}, ${5:rotation=0}, ${6:size=0}, ${7:invert=False})"]},
+	"'render_to' from the python's 'freetype' module": {
+		"description": "'render_to' from the pygame's 'freetype' module",
+		"prefix": "render_to",
+		"body": ["pygame.freetype.render_to(${1:surf}, ${2:dest}, ${3:text}, ${4:fgcolor=None}, ${5:bgcolor=None}, ${6:style=STYLE_DEFAULT}, ${7:rotation=0}, ${8:size=0})"]},
+	"'resolution' from the python's 'freetype' module": {
+		"description": "'resolution' from the pygame's 'freetype' module",
+		"prefix": "resolution",
+		"body": ["pygame.freetype.resolution"]},
+	"'rotation' from the python's 'freetype' module": {
+		"description": "'rotation' from the pygame's 'freetype' module",
+		"prefix": "rotation",
+		"body": ["pygame.freetype.rotation"]},
+	"'scalable' from the python's 'freetype' module": {
+		"description": "'scalable' from the pygame's 'freetype' module",
+		"prefix": "scalable",
+		"body": ["pygame.freetype.scalable"]},
+	"'size' from the python's 'freetype' module": {
+		"description": "'size' from the pygame's 'freetype' module",
+		"prefix": "size",
+		"body": ["pygame.freetype.size"]},
+	"'strength' from the python's 'freetype' module": {
+		"description": "'strength' from the pygame's 'freetype' module",
+		"prefix": "strength",
+		"body": ["pygame.freetype.strength"]},
+	"'strong' from the python's 'freetype' module": {
+		"description": "'strong' from the pygame's 'freetype' module",
+		"prefix": "strong",
+		"body": ["pygame.freetype.strong"]},
+	"'style' from the python's 'freetype' module": {
+		"description": "'style' from the pygame's 'freetype' module",
+		"prefix": "style",
+		"body": ["pygame.freetype.style"]},
+	"'ucs4' from the python's 'freetype' module": {
+		"description": "'ucs4' from the pygame's 'freetype' module",
+		"prefix": "ucs4",
+		"body": ["pygame.freetype.ucs4"]},
+	"'underline' from the python's 'freetype' module": {
+		"description": "'underline' from the pygame's 'freetype' module",
+		"prefix": "underline",
+		"body": ["pygame.freetype.underline"]},
+	"'underline_adjustment' from the python's 'freetype' module": {
+		"description": "'underline_adjustment' from the pygame's 'freetype' module",
+		"prefix": "underline_adjustment",
+		"body": ["pygame.freetype.underline_adjustment"]},
+	"'use_bitmap_strikes' from the python's 'freetype' module": {
+		"description": "'use_bitmap_strikes' from the pygame's 'freetype' module",
+		"prefix": "use_bitmap_strikes",
+		"body": ["pygame.freetype.use_bitmap_strikes"]},
+	"'vertical' from the python's 'freetype' module": {
+		"description": "'vertical' from the pygame's 'freetype' module",
+		"prefix": "vertical",
+		"body": ["pygame.freetype.vertical"]},
+	"'was_init' from the python's 'freetype' module": {
+		"description": "'was_init' from the pygame's 'freetype' module",
+		"prefix": "was_init",
+		"body": ["pygame.freetype.was_init()"]},
+	"'wide' from the python's 'freetype' module": {
+		"description": "'wide' from the pygame's 'freetype' module",
+		"prefix": "wide",
+		"body": ["pygame.freetype.wide"]},
+// gfxdraw
+	"'aacircle' from the python's 'gfxdraw' module": {
+		"description": "'aacircle' from the pygame's 'gfxdraw' module",
+		"prefix": "aacircle",
+		"body": ["pygame.gfxdraw.aacircle(${1:surface}, ${2:x}, ${3:y}, ${4:r}, ${5:color})"]},
+	"'aaellipse' from the python's 'gfxdraw' module": {
+		"description": "'aaellipse' from the pygame's 'gfxdraw' module",
+		"prefix": "aaellipse",
+		"body": ["pygame.gfxdraw.aaellipse(${1:surface}, ${2:x}, ${3:y}, ${4:rx}, ${5:ry}, ${6:color})"]},
+	"'aapolygon' from the python's 'gfxdraw' module": {
+		"description": "'aapolygon' from the pygame's 'gfxdraw' module",
+		"prefix": "aapolygon",
+		"body": ["pygame.gfxdraw.aapolygon(${1:surface}, ${2:points}, ${3:color})"]},
+	"'aatrigon' from the python's 'gfxdraw' module": {
+		"description": "'aatrigon' from the pygame's 'gfxdraw' module",
+		"prefix": "aatrigon",
+		"body": ["pygame.gfxdraw.aatrigon(${1:surface}, ${2:x1}, ${3:y1}, ${4:x2}, ${5:y2}, ${6:x3}, ${7:y3}, ${8:color})"]},
+	"'arc' from the python's 'gfxdraw' module": {
+		"description": "'arc' from the pygame's 'gfxdraw' module",
+		"prefix": "arc",
+		"body": ["pygame.gfxdraw.arc(${1:surface}, ${2:x}, ${3:y}, ${4:r}, ${5:start}, ${6:end}, ${7:color})"]},
+	"'bezier' from the python's 'gfxdraw' module": {
+		"description": "'bezier' from the pygame's 'gfxdraw' module",
+		"prefix": "bezier",
+		"body": ["pygame.gfxdraw.bezier(${1:surface}, ${2:points}, ${3:steps}, ${4:color})"]},
+	"'box' from the python's 'gfxdraw' module": {
+		"description": "'box' from the pygame's 'gfxdraw' module",
+		"prefix": "box",
+		"body": ["pygame.gfxdraw.box(${1:surface}, ${2:rect}, ${3:color})"]},
+	"'circle' from the python's 'gfxdraw' module": {
+		"description": "'circle' from the pygame's 'gfxdraw' module",
+		"prefix": "circle",
+		"body": ["pygame.gfxdraw.circle(${1:surface}, ${2:x}, ${3:y}, ${4:r}, ${5:color})"]},
+	"'ellipse' from the python's 'gfxdraw' module": {
+		"description": "'ellipse' from the pygame's 'gfxdraw' module",
+		"prefix": "ellipse",
+		"body": ["pygame.gfxdraw.ellipse(${1:surface}, ${2:x}, ${3:y}, ${4:rx}, ${5:ry}, ${6:color})"]},
+	"'filled_circle' from the python's 'gfxdraw' module": {
+		"description": "'filled_circle' from the pygame's 'gfxdraw' module",
+		"prefix": "filled_circle",
+		"body": ["pygame.gfxdraw.filled_circle(${1:surface}, ${2:x}, ${3:y}, ${4:r}, ${5:color})"]},
+	"'filled_ellipse' from the python's 'gfxdraw' module": {
+		"description": "'filled_ellipse' from the pygame's 'gfxdraw' module",
+		"prefix": "filled_ellipse",
+		"body": ["pygame.gfxdraw.filled_ellipse(${1:surface}, ${2:x}, ${3:y}, ${4:rx}, ${5:ry}, ${6:color})"]},
+	"'filled_polygon' from the python's 'gfxdraw' module": {
+		"description": "'filled_polygon' from the pygame's 'gfxdraw' module",
+		"prefix": "filled_polygon",
+		"body": ["pygame.gfxdraw.filled_polygon(${1:surface}, ${2:points}, ${3:color})"]},
+	"'filled_trigon' from the python's 'gfxdraw' module": {
+		"description": "'filled_trigon' from the pygame's 'gfxdraw' module",
+		"prefix": "filled_trigon",
+		"body": ["pygame.gfxdraw.filled_trigon(${1:surface}, ${2:x1}, ${3:y1}, ${4:x2}, ${5:y2}, ${6:x3}, ${7:y3}, ${8:color})"]},
+	"'hline' from the python's 'gfxdraw' module": {
+		"description": "'hline' from the pygame's 'gfxdraw' module",
+		"prefix": "hline",
+		"body": ["pygame.gfxdraw.hline(${1:surface}, ${2:x1}, ${3:x2}, ${4:y}, ${5:color})"]},
+	"'line' from the python's 'gfxdraw' module": {
+		"description": "'line' from the pygame's 'gfxdraw' module",
+		"prefix": "line",
+		"body": ["pygame.gfxdraw.line(${1:surface}, ${2:x1}, ${3:y1}, ${4:x2}, ${5:y2}, ${6:color})"]},
+	"'pie' from the python's 'gfxdraw' module": {
+		"description": "'pie' from the pygame's 'gfxdraw' module",
+		"prefix": "pie",
+		"body": ["pygame.gfxdraw.pie(${1:surface}, ${2:x}, ${3:y}, ${4:r}, ${5:start}, ${6:end}, ${7:color})"]},
+	"'pixel' from the python's 'gfxdraw' module": {
+		"description": "'pixel' from the pygame's 'gfxdraw' module",
+		"prefix": "pixel",
+		"body": ["pygame.gfxdraw.pixel(${1:surface}, ${2:x}, ${3:y}, ${4:color})"]},
+	"'polygon' from the python's 'gfxdraw' module": {
+		"description": "'polygon' from the pygame's 'gfxdraw' module",
+		"prefix": "polygon",
+		"body": ["pygame.gfxdraw.polygon(${1:surface}, ${2:points}, ${3:color})"]},
+	"'rectangle' from the python's 'gfxdraw' module": {
+		"description": "'rectangle' from the pygame's 'gfxdraw' module",
+		"prefix": "rectangle",
+		"body": ["pygame.gfxdraw.rectangle(${1:surface}, ${2:rect}, ${3:color})"]},
+	"'textured_polygon' from the python's 'gfxdraw' module": {
+		"description": "'textured_polygon' from the pygame's 'gfxdraw' module",
+		"prefix": "textured_polygon",
+		"body": ["pygame.gfxdraw.textured_polygon(${1:surface}, ${2:points}, ${3:texture}, ${4:tx}, ${5:ty})"]},
+	"'trigon' from the python's 'gfxdraw' module": {
+		"description": "'trigon' from the pygame's 'gfxdraw' module",
+		"prefix": "trigon",
+		"body": ["pygame.gfxdraw.trigon(${1:surface}, ${2:x1}, ${3:y1}, ${4:x2}, ${5:y2}, ${6:x3}, ${7:y3}, ${8:color})"]},
+	"'vline' from the python's 'gfxdraw' module": {
+		"description": "'vline' from the pygame's 'gfxdraw' module",
+		"prefix": "vline",
+		"body": ["pygame.gfxdraw.vline(${1:surface}, ${2:x}, ${3:y1}, ${4:y2}, ${5:color})"]},
+// image
+	"'frombuffer' from the python's 'image' module": {
+		"description": "'frombuffer' from the pygame's 'image' module",
+		"prefix": "frombuffer",
+		"body": ["pygame.image.frombuffer(${1:string}, ${2:size}, ${3:format})"]},
+	"'fromstring' from the python's 'image' module": {
+		"description": "'fromstring' from the pygame's 'image' module",
+		"prefix": "fromstring",
+		"body": ["pygame.image.fromstring(${1:string}, ${2:size}, ${3:format}, ${4:flipped=False})"]},
+	"'get_extended' from the python's 'image' module": {
+		"description": "'get_extended' from the pygame's 'image' module",
+		"prefix": "get_extended",
+		"body": ["pygame.image.get_extended()"]},
+	"'load' from the python's 'image' module": {
+		"description": "'load' from the pygame's 'image' module",
+		"prefix": "load",
+		"body": ["pygame.image.load()"]},
+	"'load' from the python's 'image' module": {
+		"description": "'load' from the pygame's 'image' module",
+		"prefix": "load",
+		"body": ["pygame.image.load(${1:fileobj}, ${2:namehint=\"\"})"]},
+	"'save' from the python's 'image' module": {
+		"description": "'save' from the pygame's 'image' module",
+		"prefix": "save",
+		"body": ["pygame.image.save(${1:Surface}, ${2:filename})"]},
+	"'tostring' from the python's 'image' module": {
+		"description": "'tostring' from the pygame's 'image' module",
+		"prefix": "tostring",
+		"body": ["pygame.image.tostring(${1:Surface}, ${2:format}, ${3:flipped=False})"]},
+// joystick
+	"'Joystick' from the python's 'joystick' module": {
+		"description": "'Joystick' from the pygame's 'joystick' module",
+		"prefix": "Joystick",
+		"body": ["pygame.joystick.Joystick()"]},
+	"'get_axis' from the python's 'joystick' module": {
+		"description": "'get_axis' from the pygame's 'joystick' module",
+		"prefix": "get_axis",
+		"body": ["pygame.joystick.get_axis()"]},
+	"'get_ball' from the python's 'joystick' module": {
+		"description": "'get_ball' from the pygame's 'joystick' module",
+		"prefix": "get_ball",
+		"body": ["pygame.joystick.get_ball()"]},
+	"'get_button' from the python's 'joystick' module": {
+		"description": "'get_button' from the pygame's 'joystick' module",
+		"prefix": "get_button",
+		"body": ["pygame.joystick.get_button()"]},
+	"'get_count' from the python's 'joystick' module": {
+		"description": "'get_count' from the pygame's 'joystick' module",
+		"prefix": "get_count",
+		"body": ["pygame.joystick.get_count()"]},
+	"'get_hat' from the python's 'joystick' module": {
+		"description": "'get_hat' from the pygame's 'joystick' module",
+		"prefix": "get_hat",
+		"body": ["pygame.joystick.get_hat()"]},
+	"'get_id' from the python's 'joystick' module": {
+		"description": "'get_id' from the pygame's 'joystick' module",
+		"prefix": "get_id",
+		"body": ["pygame.joystick.get_id()"]},
+	"'get_init' from the python's 'joystick' module": {
+		"description": "'get_init' from the pygame's 'joystick' module",
+		"prefix": "get_init",
+		"body": ["pygame.joystick.get_init()"]},
+	"'get_name' from the python's 'joystick' module": {
+		"description": "'get_name' from the pygame's 'joystick' module",
+		"prefix": "get_name",
+		"body": ["pygame.joystick.get_name()"]},
+	"'get_numaxes' from the python's 'joystick' module": {
+		"description": "'get_numaxes' from the pygame's 'joystick' module",
+		"prefix": "get_numaxes",
+		"body": ["pygame.joystick.get_numaxes()"]},
+	"'get_numballs' from the python's 'joystick' module": {
+		"description": "'get_numballs' from the pygame's 'joystick' module",
+		"prefix": "get_numballs",
+		"body": ["pygame.joystick.get_numballs()"]},
+	"'get_numbuttons' from the python's 'joystick' module": {
+		"description": "'get_numbuttons' from the pygame's 'joystick' module",
+		"prefix": "get_numbuttons",
+		"body": ["pygame.joystick.get_numbuttons()"]},
+	"'get_numhats' from the python's 'joystick' module": {
+		"description": "'get_numhats' from the pygame's 'joystick' module",
+		"prefix": "get_numhats",
+		"body": ["pygame.joystick.get_numhats()"]},
+	"'init' from the python's 'joystick' module": {
+		"description": "'init' from the pygame's 'joystick' module",
+		"prefix": "init",
+		"body": ["pygame.joystick.init()"]},
+	"'quit' from the python's 'joystick' module": {
+		"description": "'quit' from the pygame's 'joystick' module",
+		"prefix": "quit",
+		"body": ["pygame.joystick.quit()"]},
+// key
+	"'get_focused' from the python's 'key' module": {
+		"description": "'get_focused' from the pygame's 'key' module",
+		"prefix": "get_focused",
+		"body": ["pygame.key.get_focused()"]},
+	"'get_mods' from the python's 'key' module": {
+		"description": "'get_mods' from the pygame's 'key' module",
+		"prefix": "get_mods",
+		"body": ["pygame.key.get_mods()"]},
+	"'get_pressed' from the python's 'key' module": {
+		"description": "'get_pressed' from the pygame's 'key' module",
+		"prefix": "get_pressed",
+		"body": ["pygame.key.get_pressed()"]},
+	"'get_repeat' from the python's 'key' module": {
+		"description": "'get_repeat' from the pygame's 'key' module",
+		"prefix": "get_repeat",
+		"body": ["pygame.key.get_repeat()"]},
+	"'name' from the python's 'key' module": {
+		"description": "'name' from the pygame's 'key' module",
+		"prefix": "name",
+		"body": ["pygame.key.name()"]},
+	"'set_mods' from the python's 'key' module": {
+		"description": "'set_mods' from the pygame's 'key' module",
+		"prefix": "set_mods",
+		"body": ["pygame.key.set_mods()"]},
+	"'set_repeat' from the python's 'key' module": {
+		"description": "'set_repeat' from the pygame's 'key' module",
+		"prefix": "set_repeat",
+		"body": ["pygame.key.set_repeat()"]},
+	"'set_repeat' from the python's 'key' module": {
+		"description": "'set_repeat' from the pygame's 'key' module",
+		"prefix": "set_repeat",
+		"body": ["pygame.key.set_repeat(${1:delay}, ${2:interval})"]},
+// locals
+// mixer
+	"'Channel' from the python's 'mixer' module": {
+		"description": "'Channel' from the pygame's 'mixer' module",
+		"prefix": "Channel",
+		"body": ["pygame.mixer.Channel()"]},
+	"'Sound' from the python's 'mixer' module": {
+		"description": "'Sound' from the pygame's 'mixer' module",
+		"prefix": "Sound",
+		"body": ["pygame.mixer.Sound()"]},
+	"'Sound' from the python's 'mixer' module": {
+		"description": "'Sound' from the pygame's 'mixer' module",
+		"prefix": "Sound",
+		"body": ["pygame.mixer.Sound()"]},
+	"'Sound' from the python's 'mixer' module": {
+		"description": "'Sound' from the pygame's 'mixer' module",
+		"prefix": "Sound",
+		"body": ["pygame.mixer.Sound()"]},
+	"'Sound' from the python's 'mixer' module": {
+		"description": "'Sound' from the pygame's 'mixer' module",
+		"prefix": "Sound",
+		"body": ["pygame.mixer.Sound()"]},
+	"'Sound' from the python's 'mixer' module": {
+		"description": "'Sound' from the pygame's 'mixer' module",
+		"prefix": "Sound",
+		"body": ["pygame.mixer.Sound()"]},
+	"'Sound' from the python's 'mixer' module": {
+		"description": "'Sound' from the pygame's 'mixer' module",
+		"prefix": "Sound",
+		"body": ["pygame.mixer.Sound()"]},
+	"'Sound' from the python's 'mixer' module": {
+		"description": "'Sound' from the pygame's 'mixer' module",
+		"prefix": "Sound",
+		"body": ["pygame.mixer.Sound()"]},
+	"'fadeout' from the python's 'mixer' module": {
+		"description": "'fadeout' from the pygame's 'mixer' module",
+		"prefix": "fadeout",
+		"body": ["pygame.mixer.fadeout()"]},
+	"'find_channel' from the python's 'mixer' module": {
+		"description": "'find_channel' from the pygame's 'mixer' module",
+		"prefix": "find_channel",
+		"body": ["pygame.mixer.find_channel()"]},
+	"'get_busy' from the python's 'mixer' module": {
+		"description": "'get_busy' from the pygame's 'mixer' module",
+		"prefix": "get_busy",
+		"body": ["pygame.mixer.get_busy()"]},
+	"'get_endevent' from the python's 'mixer' module": {
+		"description": "'get_endevent' from the pygame's 'mixer' module",
+		"prefix": "get_endevent",
+		"body": ["pygame.mixer.get_endevent()"]},
+	"'get_init' from the python's 'mixer' module": {
+		"description": "'get_init' from the pygame's 'mixer' module",
+		"prefix": "get_init",
+		"body": ["pygame.mixer.get_init()"]},
+	"'get_length' from the python's 'mixer' module": {
+		"description": "'get_length' from the pygame's 'mixer' module",
+		"prefix": "get_length",
+		"body": ["pygame.mixer.get_length()"]},
+	"'get_num_channels' from the python's 'mixer' module": {
+		"description": "'get_num_channels' from the pygame's 'mixer' module",
+		"prefix": "get_num_channels",
+		"body": ["pygame.mixer.get_num_channels()"]},
+	"'get_queue' from the python's 'mixer' module": {
+		"description": "'get_queue' from the pygame's 'mixer' module",
+		"prefix": "get_queue",
+		"body": ["pygame.mixer.get_queue()"]},
+	"'get_raw' from the python's 'mixer' module": {
+		"description": "'get_raw' from the pygame's 'mixer' module",
+		"prefix": "get_raw",
+		"body": ["pygame.mixer.get_raw()"]},
+	"'get_sound' from the python's 'mixer' module": {
+		"description": "'get_sound' from the pygame's 'mixer' module",
+		"prefix": "get_sound",
+		"body": ["pygame.mixer.get_sound()"]},
+	"'get_volume' from the python's 'mixer' module": {
+		"description": "'get_volume' from the pygame's 'mixer' module",
+		"prefix": "get_volume",
+		"body": ["pygame.mixer.get_volume()"]},
+	"'init' from the python's 'mixer' module": {
+		"description": "'init' from the pygame's 'mixer' module",
+		"prefix": "init",
+		"body": ["pygame.mixer.init(${1:frequency=22050}, ${2:size=-16}, ${3:channels=2}, ${4:buffer=4096})"]},
+	"'pause' from the python's 'mixer' module": {
+		"description": "'pause' from the pygame's 'mixer' module",
+		"prefix": "pause",
+		"body": ["pygame.mixer.pause()"]},
+	"'play' from the python's 'mixer' module": {
+		"description": "'play' from the pygame's 'mixer' module",
+		"prefix": "play",
+		"body": ["pygame.mixer.play(${1:Sound}, ${2:loops=0}, ${3:maxtime=0}, ${4:fade_ms=0})"]},
+	"'play' from the python's 'mixer' module": {
+		"description": "'play' from the pygame's 'mixer' module",
+		"prefix": "play",
+		"body": ["pygame.mixer.play(${1:loops=0}, ${2:maxtime=0}, ${3:fade_ms=0})"]},
+	"'pre_init' from the python's 'mixer' module": {
+		"description": "'pre_init' from the pygame's 'mixer' module",
+		"prefix": "pre_init",
+		"body": ["pygame.mixer.pre_init(${1:frequency=22050}, ${2:size=-16}, ${3:channels=2}, ${4:buffersize=4096})"]},
+	"'queue' from the python's 'mixer' module": {
+		"description": "'queue' from the pygame's 'mixer' module",
+		"prefix": "queue",
+		"body": ["pygame.mixer.queue()"]},
+	"'quit' from the python's 'mixer' module": {
+		"description": "'quit' from the pygame's 'mixer' module",
+		"prefix": "quit",
+		"body": ["pygame.mixer.quit()"]},
+	"'set_endevent' from the python's 'mixer' module": {
+		"description": "'set_endevent' from the pygame's 'mixer' module",
+		"prefix": "set_endevent",
+		"body": ["pygame.mixer.set_endevent()"]},
+	"'set_endevent' from the python's 'mixer' module": {
+		"description": "'set_endevent' from the pygame's 'mixer' module",
+		"prefix": "set_endevent",
+		"body": ["pygame.mixer.set_endevent()"]},
+	"'set_num_channels' from the python's 'mixer' module": {
+		"description": "'set_num_channels' from the pygame's 'mixer' module",
+		"prefix": "set_num_channels",
+		"body": ["pygame.mixer.set_num_channels()"]},
+	"'set_reserved' from the python's 'mixer' module": {
+		"description": "'set_reserved' from the pygame's 'mixer' module",
+		"prefix": "set_reserved",
+		"body": ["pygame.mixer.set_reserved()"]},
+	"'set_volume' from the python's 'mixer' module": {
+		"description": "'set_volume' from the pygame's 'mixer' module",
+		"prefix": "set_volume",
+		"body": ["pygame.mixer.set_volume(${1:left}, ${2:right})"]},
+	"'set_volume' from the python's 'mixer' module": {
+		"description": "'set_volume' from the pygame's 'mixer' module",
+		"prefix": "set_volume",
+		"body": ["pygame.mixer.set_volume()"]},
+	"'stop' from the python's 'mixer' module": {
+		"description": "'stop' from the pygame's 'mixer' module",
+		"prefix": "stop",
+		"body": ["pygame.mixer.stop()"]},
+	"'unpause' from the python's 'mixer' module": {
+		"description": "'unpause' from the pygame's 'mixer' module",
+		"prefix": "unpause",
+		"body": ["pygame.mixer.unpause()"]},
+// music
+	"'fadeout' from the python's 'music' module": {
+		"description": "'fadeout' from the pygame's 'music' module",
+		"prefix": "fadeout",
+		"body": ["pygame.music.fadeout()"]},
+	"'get_busy' from the python's 'music' module": {
+		"description": "'get_busy' from the pygame's 'music' module",
+		"prefix": "get_busy",
+		"body": ["pygame.music.get_busy()"]},
+	"'get_endevent' from the python's 'music' module": {
+		"description": "'get_endevent' from the pygame's 'music' module",
+		"prefix": "get_endevent",
+		"body": ["pygame.music.get_endevent()"]},
+	"'get_pos' from the python's 'music' module": {
+		"description": "'get_pos' from the pygame's 'music' module",
+		"prefix": "get_pos",
+		"body": ["pygame.music.get_pos()"]},
+	"'get_volume' from the python's 'music' module": {
+		"description": "'get_volume' from the pygame's 'music' module",
+		"prefix": "get_volume",
+		"body": ["pygame.music.get_volume()"]},
+	"'load' from the python's 'music' module": {
+		"description": "'load' from the pygame's 'music' module",
+		"prefix": "load",
+		"body": ["pygame.music.load()"]},
+	"'load' from the python's 'music' module": {
+		"description": "'load' from the pygame's 'music' module",
+		"prefix": "load",
+		"body": ["pygame.music.load()"]},
+	"'pause' from the python's 'music' module": {
+		"description": "'pause' from the pygame's 'music' module",
+		"prefix": "pause",
+		"body": ["pygame.music.pause()"]},
+	"'play' from the python's 'music' module": {
+		"description": "'play' from the pygame's 'music' module",
+		"prefix": "play",
+		"body": ["pygame.music.play(${1:loops=0}, ${2:start=0.0})"]},
+	"'queue' from the python's 'music' module": {
+		"description": "'queue' from the pygame's 'music' module",
+		"prefix": "queue",
+		"body": ["pygame.music.queue()"]},
+	"'rewind' from the python's 'music' module": {
+		"description": "'rewind' from the pygame's 'music' module",
+		"prefix": "rewind",
+		"body": ["pygame.music.rewind()"]},
+	"'set_endevent' from the python's 'music' module": {
+		"description": "'set_endevent' from the pygame's 'music' module",
+		"prefix": "set_endevent",
+		"body": ["pygame.music.set_endevent()"]},
+	"'set_endevent' from the python's 'music' module": {
+		"description": "'set_endevent' from the pygame's 'music' module",
+		"prefix": "set_endevent",
+		"body": ["pygame.music.set_endevent()"]},
+	"'set_pos' from the python's 'music' module": {
+		"description": "'set_pos' from the pygame's 'music' module",
+		"prefix": "set_pos",
+		"body": ["pygame.music.set_pos()"]},
+	"'set_volume' from the python's 'music' module": {
+		"description": "'set_volume' from the pygame's 'music' module",
+		"prefix": "set_volume",
+		"body": ["pygame.music.set_volume()"]},
+	"'stop' from the python's 'music' module": {
+		"description": "'stop' from the pygame's 'music' module",
+		"prefix": "stop",
+		"body": ["pygame.music.stop()"]},
+	"'unpause' from the python's 'music' module": {
+		"description": "'unpause' from the pygame's 'music' module",
+		"prefix": "unpause",
+		"body": ["pygame.music.unpause()"]},
+// mouse
+	"'get_cursor' from the python's 'mouse' module": {
+		"description": "'get_cursor' from the pygame's 'mouse' module",
+		"prefix": "get_cursor",
+		"body": ["pygame.mouse.get_cursor()"]},
+	"'get_focused' from the python's 'mouse' module": {
+		"description": "'get_focused' from the pygame's 'mouse' module",
+		"prefix": "get_focused",
+		"body": ["pygame.mouse.get_focused()"]},
+	"'get_pos' from the python's 'mouse' module": {
+		"description": "'get_pos' from the pygame's 'mouse' module",
+		"prefix": "get_pos",
+		"body": ["pygame.mouse.get_pos()"]},
+	"'get_pressed' from the python's 'mouse' module": {
+		"description": "'get_pressed' from the pygame's 'mouse' module",
+		"prefix": "get_pressed",
+		"body": ["pygame.mouse.get_pressed()"]},
+	"'get_rel' from the python's 'mouse' module": {
+		"description": "'get_rel' from the pygame's 'mouse' module",
+		"prefix": "get_rel",
+		"body": ["pygame.mouse.get_rel()"]},
+	"'set_cursor' from the python's 'mouse' module": {
+		"description": "'set_cursor' from the pygame's 'mouse' module",
+		"prefix": "set_cursor",
+		"body": ["pygame.mouse.set_cursor(${1:size}, ${2:hotspot}, ${3:xormasks}, ${4:andmasks})"]},
+	"'set_pos' from the python's 'mouse' module": {
+		"description": "'set_pos' from the pygame's 'mouse' module",
+		"prefix": "set_pos",
+		"body": ["pygame.mouse.set_pos(${1:[x}, ${2:y]})"]},
+	"'set_visible' from the python's 'mouse' module": {
+		"description": "'set_visible' from the pygame's 'mouse' module",
+		"prefix": "set_visible",
+		"body": ["pygame.mouse.set_visible()"]},
+// Overlay
+	"'Overlay' from the python's 'Overlay' module": {
+		"description": "'Overlay' from the pygame's 'Overlay' module",
+		"prefix": "Overlay",
+		"body": ["pygame.Overlay.Overlay(${1:format}, ${2:width}, ${3:height})"]},
+	"'display' from the python's 'Overlay' module": {
+		"description": "'display' from the pygame's 'Overlay' module",
+		"prefix": "display",
+		"body": ["pygame.Overlay.display(${1:y}, ${2:u}, ${3:v})"]},
+	"'display' from the python's 'Overlay' module": {
+		"description": "'display' from the pygame's 'Overlay' module",
+		"prefix": "display",
+		"body": ["pygame.Overlay.display()"]},
+	"'get_hardware' from the python's 'Overlay' module": {
+		"description": "'get_hardware' from the pygame's 'Overlay' module",
+		"prefix": "get_hardware",
+		"body": ["pygame.Overlay.get_hardware()"]},
+	"'set_location' from the python's 'Overlay' module": {
+		"description": "'set_location' from the pygame's 'Overlay' module",
+		"prefix": "set_location",
+		"body": ["pygame.Overlay.set_location()"]},
+// PixelArray
+	"'PixelArray' from the python's 'PixelArray' module": {
+		"description": "'PixelArray' from the pygame's 'PixelArray' module",
+		"prefix": "PixelArray",
+		"body": ["pygame.PixelArray.PixelArray()"]},
+	"'compare' from the python's 'PixelArray' module": {
+		"description": "'compare' from the pygame's 'PixelArray' module",
+		"prefix": "compare",
+		"body": ["pygame.PixelArray.compare(${1:array}, ${2:distance=0}, ${3:weights=0.299}, ${4:0.587}, ${5:0.114})"]},
+	"'extract' from the python's 'PixelArray' module": {
+		"description": "'extract' from the pygame's 'PixelArray' module",
+		"prefix": "extract",
+		"body": ["pygame.PixelArray.extract(${1:color}, ${2:distance=0}, ${3:weights=0.299}, ${4:0.587}, ${5:0.114})"]},
+	"'itemsize' from the python's 'PixelArray' module": {
+		"description": "'itemsize' from the pygame's 'PixelArray' module",
+		"prefix": "itemsize",
+		"body": ["pygame.PixelArray.itemsize"]},
+	"'make_surface' from the python's 'PixelArray' module": {
+		"description": "'make_surface' from the pygame's 'PixelArray' module",
+		"prefix": "make_surface",
+		"body": ["pygame.PixelArray.make_surface()"]},
+	"'ndim' from the python's 'PixelArray' module": {
+		"description": "'ndim' from the pygame's 'PixelArray' module",
+		"prefix": "ndim",
+		"body": ["pygame.PixelArray.ndim"]},
+	"'replace' from the python's 'PixelArray' module": {
+		"description": "'replace' from the pygame's 'PixelArray' module",
+		"prefix": "replace",
+		"body": ["pygame.PixelArray.replace(${1:color}, ${2:repcolor}, ${3:distance=0}, ${4:weights=0.299}, ${5:0.587}, ${6:0.114})"]},
+	"'shape' from the python's 'PixelArray' module": {
+		"description": "'shape' from the pygame's 'PixelArray' module",
+		"prefix": "shape",
+		"body": ["pygame.PixelArray.shape"]},
+	"'strides' from the python's 'PixelArray' module": {
+		"description": "'strides' from the pygame's 'PixelArray' module",
+		"prefix": "strides",
+		"body": ["pygame.PixelArray.strides"]},
+	"'surface' from the python's 'PixelArray' module": {
+		"description": "'surface' from the pygame's 'PixelArray' module",
+		"prefix": "surface",
+		"body": ["pygame.PixelArray.surface"]},
+	"'transpose' from the python's 'PixelArray' module": {
+		"description": "'transpose' from the pygame's 'PixelArray' module",
+		"prefix": "transpose",
+		"body": ["pygame.PixelArray.transpose()"]},
+// Rect
+	"'Rect' from the python's 'Rect' module": {
+		"description": "'Rect' from the pygame's 'Rect' module",
+		"prefix": "Rect",
+		"body": ["pygame.Rect.Rect(${1:left}, ${2:top})"]},
+	"'Rect' from the python's 'Rect' module": {
+		"description": "'Rect' from the pygame's 'Rect' module",
+		"prefix": "Rect",
+		"body": ["pygame.Rect.Rect(${1:left}, ${2:top}, ${3:width}, ${4:height})"]},
+	"'Rect' from the python's 'Rect' module": {
+		"description": "'Rect' from the pygame's 'Rect' module",
+		"prefix": "Rect",
+		"body": ["pygame.Rect.Rect()"]},
+	"'clamp' from the python's 'Rect' module": {
+		"description": "'clamp' from the pygame's 'Rect' module",
+		"prefix": "clamp",
+		"body": ["pygame.Rect.clamp()"]},
+	"'clamp_ip' from the python's 'Rect' module": {
+		"description": "'clamp_ip' from the pygame's 'Rect' module",
+		"prefix": "clamp_ip",
+		"body": ["pygame.Rect.clamp_ip()"]},
+	"'clip' from the python's 'Rect' module": {
+		"description": "'clip' from the pygame's 'Rect' module",
+		"prefix": "clip",
+		"body": ["pygame.Rect.clip()"]},
+	"'collidedict' from the python's 'Rect' module": {
+		"description": "'collidedict' from the pygame's 'Rect' module",
+		"prefix": "collidedict",
+		"body": ["pygame.Rect.collidedict()"]},
+	"'collidedictall' from the python's 'Rect' module": {
+		"description": "'collidedictall' from the pygame's 'Rect' module",
+		"prefix": "collidedictall",
+		"body": ["pygame.Rect.collidedictall()"]},
+	"'collidelist' from the python's 'Rect' module": {
+		"description": "'collidelist' from the pygame's 'Rect' module",
+		"prefix": "collidelist",
+		"body": ["pygame.Rect.collidelist()"]},
+	"'collidelistall' from the python's 'Rect' module": {
+		"description": "'collidelistall' from the pygame's 'Rect' module",
+		"prefix": "collidelistall",
+		"body": ["pygame.Rect.collidelistall()"]},
+	"'collidepoint' from the python's 'Rect' module": {
+		"description": "'collidepoint' from the pygame's 'Rect' module",
+		"prefix": "collidepoint",
+		"body": ["pygame.Rect.collidepoint(${1:x}, ${2:y})"]},
+	"'collidepoint' from the python's 'Rect' module": {
+		"description": "'collidepoint' from the pygame's 'Rect' module",
+		"prefix": "collidepoint",
+		"body": ["pygame.Rect.collidepoint(${1:x}, ${2:y})"]},
+	"'colliderect' from the python's 'Rect' module": {
+		"description": "'colliderect' from the pygame's 'Rect' module",
+		"prefix": "colliderect",
+		"body": ["pygame.Rect.colliderect()"]},
+	"'contains' from the python's 'Rect' module": {
+		"description": "'contains' from the pygame's 'Rect' module",
+		"prefix": "contains",
+		"body": ["pygame.Rect.contains()"]},
+	"'copy' from the python's 'Rect' module": {
+		"description": "'copy' from the pygame's 'Rect' module",
+		"prefix": "copy",
+		"body": ["pygame.Rect.copy()"]},
+	"'fit' from the python's 'Rect' module": {
+		"description": "'fit' from the pygame's 'Rect' module",
+		"prefix": "fit",
+		"body": ["pygame.Rect.fit()"]},
+	"'inflate' from the python's 'Rect' module": {
+		"description": "'inflate' from the pygame's 'Rect' module",
+		"prefix": "inflate",
+		"body": ["pygame.Rect.inflate(${1:x}, ${2:y})"]},
+	"'inflate_ip' from the python's 'Rect' module": {
+		"description": "'inflate_ip' from the pygame's 'Rect' module",
+		"prefix": "inflate_ip",
+		"body": ["pygame.Rect.inflate_ip(${1:x}, ${2:y})"]},
+	"'move' from the python's 'Rect' module": {
+		"description": "'move' from the pygame's 'Rect' module",
+		"prefix": "move",
+		"body": ["pygame.Rect.move(${1:x}, ${2:y})"]},
+	"'move_ip' from the python's 'Rect' module": {
+		"description": "'move_ip' from the pygame's 'Rect' module",
+		"prefix": "move_ip",
+		"body": ["pygame.Rect.move_ip(${1:x}, ${2:y})"]},
+	"'normalize' from the python's 'Rect' module": {
+		"description": "'normalize' from the pygame's 'Rect' module",
+		"prefix": "normalize",
+		"body": ["pygame.Rect.normalize()"]},
+	"'union' from the python's 'Rect' module": {
+		"description": "'union' from the pygame's 'Rect' module",
+		"prefix": "union",
+		"body": ["pygame.Rect.union()"]},
+	"'union_ip' from the python's 'Rect' module": {
+		"description": "'union_ip' from the pygame's 'Rect' module",
+		"prefix": "union_ip",
+		"body": ["pygame.Rect.union_ip()"]},
+	"'unionall' from the python's 'Rect' module": {
+		"description": "'unionall' from the pygame's 'Rect' module",
+		"prefix": "unionall",
+		"body": ["pygame.Rect.unionall()"]},
+	"'unionall_ip' from the python's 'Rect' module": {
+		"description": "'unionall_ip' from the pygame's 'Rect' module",
+		"prefix": "unionall_ip",
+		"body": ["pygame.Rect.unionall_ip()"]},
+// scrap
+	"'contains ' from the python's 'scrap' module": {
+		"description": "'contains ' from the pygame's 'scrap' module",
+		"prefix": "contains ",
+		"body": ["pygame.scrap.contains ()"]},
+	"'get ' from the python's 'scrap' module": {
+		"description": "'get ' from the pygame's 'scrap' module",
+		"prefix": "get ",
+		"body": ["pygame.scrap.get ()"]},
+	"'get_types ' from the python's 'scrap' module": {
+		"description": "'get_types ' from the pygame's 'scrap' module",
+		"prefix": "get_types ",
+		"body": ["pygame.scrap.get_types ()"]},
+	"'init ' from the python's 'scrap' module": {
+		"description": "'init ' from the pygame's 'scrap' module",
+		"prefix": "init ",
+		"body": ["pygame.scrap.init ()"]},
+	"'lost' from the python's 'scrap' module": {
+		"description": "'lost' from the pygame's 'scrap' module",
+		"prefix": "lost",
+		"body": ["pygame.scrap.lost()"]},
+	"'put' from the python's 'scrap' module": {
+		"description": "'put' from the pygame's 'scrap' module",
+		"prefix": "put",
+		"body": ["pygame.scrap.put(${1:type}, ${2:data})"]},
+	"'set_mode' from the python's 'scrap' module": {
+		"description": "'set_mode' from the pygame's 'scrap' module",
+		"prefix": "set_mode",
+		"body": ["pygame.scrap.set_mode()"]},
+// sndarray
+	"'array' from the python's 'sndarray' module": {
+		"description": "'array' from the pygame's 'sndarray' module",
+		"prefix": "array",
+		"body": ["pygame.sndarray.array()"]},
+	"'get_arraytype ' from the python's 'sndarray' module": {
+		"description": "'get_arraytype ' from the pygame's 'sndarray' module",
+		"prefix": "get_arraytype ",
+		"body": ["pygame.sndarray.get_arraytype ()"]},
+	"'get_arraytypes ' from the python's 'sndarray' module": {
+		"description": "'get_arraytypes ' from the pygame's 'sndarray' module",
+		"prefix": "get_arraytypes ",
+		"body": ["pygame.sndarray.get_arraytypes ()"]},
+	"'make_sound' from the python's 'sndarray' module": {
+		"description": "'make_sound' from the pygame's 'sndarray' module",
+		"prefix": "make_sound",
+		"body": ["pygame.sndarray.make_sound()"]},
+	"'samples' from the python's 'sndarray' module": {
+		"description": "'samples' from the pygame's 'sndarray' module",
+		"prefix": "samples",
+		"body": ["pygame.sndarray.samples()"]},
+	"'use_arraytype ' from the python's 'sndarray' module": {
+		"description": "'use_arraytype ' from the pygame's 'sndarray' module",
+		"prefix": "use_arraytype ",
+		"body": ["pygame.sndarray.use_arraytype ()"]},
+// sprite
+	"'DirtySprite' from the python's 'sprite' module": {
+		"description": "'DirtySprite' from the pygame's 'sprite' module",
+		"prefix": "DirtySprite",
+		"body": ["pygame.sprite.DirtySprite()"]},
+	"'Group' from the python's 'sprite' module": {
+		"description": "'Group' from the pygame's 'sprite' module",
+		"prefix": "Group",
+		"body": ["pygame.sprite.Group()"]},
+	"'GroupSingle' from the python's 'sprite' module": {
+		"description": "'GroupSingle' from the pygame's 'sprite' module",
+		"prefix": "GroupSingle",
+		"body": ["pygame.sprite.GroupSingle()"]},
+	"'LayeredDirty' from the python's 'sprite' module": {
+		"description": "'LayeredDirty' from the pygame's 'sprite' module",
+		"prefix": "LayeredDirty",
+		"body": ["pygame.sprite.LayeredDirty(${1:*spites}, ${2:**kwargs})"]},
+	"'LayeredUpdates' from the python's 'sprite' module": {
+		"description": "'LayeredUpdates' from the pygame's 'sprite' module",
+		"prefix": "LayeredUpdates",
+		"body": ["pygame.sprite.LayeredUpdates(${1:*spites}, ${2:**kwargs})"]},
+	"'OrderedUpdates' from the python's 'sprite' module": {
+		"description": "'OrderedUpdates' from the pygame's 'sprite' module",
+		"prefix": "OrderedUpdates",
+		"body": ["pygame.sprite.OrderedUpdates()"]},
+	"'RenderUpdates' from the python's 'sprite' module": {
+		"description": "'RenderUpdates' from the pygame's 'sprite' module",
+		"prefix": "RenderUpdates",
+		"body": ["pygame.sprite.RenderUpdates()"]},
+	"'Sprite' from the python's 'sprite' module": {
+		"description": "'Sprite' from the pygame's 'sprite' module",
+		"prefix": "Sprite",
+		"body": ["pygame.sprite.Sprite()"]},
+	"'add' from the python's 'sprite' module": {
+		"description": "'add' from the pygame's 'sprite' module",
+		"prefix": "add",
+		"body": ["pygame.sprite.add()"]},
+	"'add' from the python's 'sprite' module": {
+		"description": "'add' from the pygame's 'sprite' module",
+		"prefix": "add",
+		"body": ["pygame.sprite.add()"]},
+	"'add' from the python's 'sprite' module": {
+		"description": "'add' from the pygame's 'sprite' module",
+		"prefix": "add",
+		"body": ["pygame.sprite.add(${1:*sprites}, ${2:**kwargs})"]},
+	"'alive' from the python's 'sprite' module": {
+		"description": "'alive' from the pygame's 'sprite' module",
+		"prefix": "alive",
+		"body": ["pygame.sprite.alive()"]},
+	"'change_layer' from the python's 'sprite' module": {
+		"description": "'change_layer' from the pygame's 'sprite' module",
+		"prefix": "change_layer",
+		"body": ["pygame.sprite.change_layer(${1:sprite}, ${2:new_layer})"]},
+	"'clear' from the python's 'sprite' module": {
+		"description": "'clear' from the pygame's 'sprite' module",
+		"prefix": "clear",
+		"body": ["pygame.sprite.clear(${1:Surface_dest}, ${2:background})"]},
+	"'clear' from the python's 'sprite' module": {
+		"description": "'clear' from the pygame's 'sprite' module",
+		"prefix": "clear",
+		"body": ["pygame.sprite.clear(${1:surface}, ${2:bgd})"]},
+	"'collide_circle' from the python's 'sprite' module": {
+		"description": "'collide_circle' from the pygame's 'sprite' module",
+		"prefix": "collide_circle",
+		"body": ["pygame.sprite.collide_circle(${1:left}, ${2:right})"]},
+	"'collide_circle_ratio' from the python's 'sprite' module": {
+		"description": "'collide_circle_ratio' from the pygame's 'sprite' module",
+		"prefix": "collide_circle_ratio",
+		"body": ["pygame.sprite.collide_circle_ratio()"]},
+	"'collide_mask' from the python's 'sprite' module": {
+		"description": "'collide_mask' from the pygame's 'sprite' module",
+		"prefix": "collide_mask",
+		"body": ["pygame.sprite.collide_mask(${1:SpriteLeft}, ${2:SpriteRight})"]},
+	"'collide_rect' from the python's 'sprite' module": {
+		"description": "'collide_rect' from the pygame's 'sprite' module",
+		"prefix": "collide_rect",
+		"body": ["pygame.sprite.collide_rect(${1:left}, ${2:right})"]},
+	"'collide_rect_ratio' from the python's 'sprite' module": {
+		"description": "'collide_rect_ratio' from the pygame's 'sprite' module",
+		"prefix": "collide_rect_ratio",
+		"body": ["pygame.sprite.collide_rect_ratio()"]},
+	"'copy' from the python's 'sprite' module": {
+		"description": "'copy' from the pygame's 'sprite' module",
+		"prefix": "copy",
+		"body": ["pygame.sprite.copy()"]},
+	"'draw' from the python's 'sprite' module": {
+		"description": "'draw' from the pygame's 'sprite' module",
+		"prefix": "draw",
+		"body": ["pygame.sprite.draw()"]},
+	"'draw' from the python's 'sprite' module": {
+		"description": "'draw' from the pygame's 'sprite' module",
+		"prefix": "draw",
+		"body": ["pygame.sprite.draw()"]},
+	"'draw' from the python's 'sprite' module": {
+		"description": "'draw' from the pygame's 'sprite' module",
+		"prefix": "draw",
+		"body": ["pygame.sprite.draw(${1:surface}, ${2:bgd=None})"]},
+	"'empty' from the python's 'sprite' module": {
+		"description": "'empty' from the pygame's 'sprite' module",
+		"prefix": "empty",
+		"body": ["pygame.sprite.empty()"]},
+	"'get_bottom_layer' from the python's 'sprite' module": {
+		"description": "'get_bottom_layer' from the pygame's 'sprite' module",
+		"prefix": "get_bottom_layer",
+		"body": ["pygame.sprite.get_bottom_layer()"]},
+	"'get_clip' from the python's 'sprite' module": {
+		"description": "'get_clip' from the pygame's 'sprite' module",
+		"prefix": "get_clip",
+		"body": ["pygame.sprite.get_clip()"]},
+	"'get_layer_of_sprite' from the python's 'sprite' module": {
+		"description": "'get_layer_of_sprite' from the pygame's 'sprite' module",
+		"prefix": "get_layer_of_sprite",
+		"body": ["pygame.sprite.get_layer_of_sprite()"]},
+	"'get_sprite' from the python's 'sprite' module": {
+		"description": "'get_sprite' from the pygame's 'sprite' module",
+		"prefix": "get_sprite",
+		"body": ["pygame.sprite.get_sprite()"]},
+	"'get_sprites_at' from the python's 'sprite' module": {
+		"description": "'get_sprites_at' from the pygame's 'sprite' module",
+		"prefix": "get_sprites_at",
+		"body": ["pygame.sprite.get_sprites_at()"]},
+	"'get_sprites_from_layer' from the python's 'sprite' module": {
+		"description": "'get_sprites_from_layer' from the pygame's 'sprite' module",
+		"prefix": "get_sprites_from_layer",
+		"body": ["pygame.sprite.get_sprites_from_layer()"]},
+	"'get_top_layer' from the python's 'sprite' module": {
+		"description": "'get_top_layer' from the pygame's 'sprite' module",
+		"prefix": "get_top_layer",
+		"body": ["pygame.sprite.get_top_layer()"]},
+	"'get_top_sprite' from the python's 'sprite' module": {
+		"description": "'get_top_sprite' from the pygame's 'sprite' module",
+		"prefix": "get_top_sprite",
+		"body": ["pygame.sprite.get_top_sprite()"]},
+	"'groupcollide' from the python's 'sprite' module": {
+		"description": "'groupcollide' from the pygame's 'sprite' module",
+		"prefix": "groupcollide",
+		"body": ["pygame.sprite.groupcollide(${1:group1}, ${2:group2}, ${3:dokill1}, ${4:dokill2}, ${5:collided = None})"]},
+	"'groups' from the python's 'sprite' module": {
+		"description": "'groups' from the pygame's 'sprite' module",
+		"prefix": "groups",
+		"body": ["pygame.sprite.groups()"]},
+	"'has' from the python's 'sprite' module": {
+		"description": "'has' from the pygame's 'sprite' module",
+		"prefix": "has",
+		"body": ["pygame.sprite.has()"]},
+	"'kill' from the python's 'sprite' module": {
+		"description": "'kill' from the pygame's 'sprite' module",
+		"prefix": "kill",
+		"body": ["pygame.sprite.kill()"]},
+	"'layers' from the python's 'sprite' module": {
+		"description": "'layers' from the pygame's 'sprite' module",
+		"prefix": "layers",
+		"body": ["pygame.sprite.layers()"]},
+	"'move_to_back' from the python's 'sprite' module": {
+		"description": "'move_to_back' from the pygame's 'sprite' module",
+		"prefix": "move_to_back",
+		"body": ["pygame.sprite.move_to_back()"]},
+	"'move_to_front' from the python's 'sprite' module": {
+		"description": "'move_to_front' from the pygame's 'sprite' module",
+		"prefix": "move_to_front",
+		"body": ["pygame.sprite.move_to_front()"]},
+	"'remove' from the python's 'sprite' module": {
+		"description": "'remove' from the pygame's 'sprite' module",
+		"prefix": "remove",
+		"body": ["pygame.sprite.remove()"]},
+	"'remove' from the python's 'sprite' module": {
+		"description": "'remove' from the pygame's 'sprite' module",
+		"prefix": "remove",
+		"body": ["pygame.sprite.remove()"]},
+	"'remove_sprites_of_layer' from the python's 'sprite' module": {
+		"description": "'remove_sprites_of_layer' from the pygame's 'sprite' module",
+		"prefix": "remove_sprites_of_layer",
+		"body": ["pygame.sprite.remove_sprites_of_layer()"]},
+	"'repaint_rect' from the python's 'sprite' module": {
+		"description": "'repaint_rect' from the pygame's 'sprite' module",
+		"prefix": "repaint_rect",
+		"body": ["pygame.sprite.repaint_rect()"]},
+	"'set_clip' from the python's 'sprite' module": {
+		"description": "'set_clip' from the pygame's 'sprite' module",
+		"prefix": "set_clip",
+		"body": ["pygame.sprite.set_clip()"]},
+	"'set_timing_treshold' from the python's 'sprite' module": {
+		"description": "'set_timing_treshold' from the pygame's 'sprite' module",
+		"prefix": "set_timing_treshold",
+		"body": ["pygame.sprite.set_timing_treshold()"]},
+	"'spritecollide' from the python's 'sprite' module": {
+		"description": "'spritecollide' from the pygame's 'sprite' module",
+		"prefix": "spritecollide",
+		"body": ["pygame.sprite.spritecollide(${1:sprite}, ${2:group}, ${3:dokill}, ${4:collided = None})"]},
+	"'spritecollideany' from the python's 'sprite' module": {
+		"description": "'spritecollideany' from the pygame's 'sprite' module",
+		"prefix": "spritecollideany",
+		"body": ["pygame.sprite.spritecollideany(${1:sprite}, ${2:group}, ${3:collided = None})"]},
+	"'sprites' from the python's 'sprite' module": {
+		"description": "'sprites' from the pygame's 'sprite' module",
+		"prefix": "sprites",
+		"body": ["pygame.sprite.sprites()"]},
+	"'switch_layer' from the python's 'sprite' module": {
+		"description": "'switch_layer' from the pygame's 'sprite' module",
+		"prefix": "switch_layer",
+		"body": ["pygame.sprite.switch_layer(${1:layer1_nr}, ${2:layer2_nr})"]},
+	"'update' from the python's 'sprite' module": {
+		"description": "'update' from the pygame's 'sprite' module",
+		"prefix": "update",
+		"body": ["pygame.sprite.update()"]},
+// Surface
+	"'Surface' from the python's 'Surface' module": {
+		"description": "'Surface' from the pygame's 'Surface' module",
+		"prefix": "Surface",
+		"body": ["pygame.Surface.Surface(${1:width}, ${2:height})"]},
+	"'Surface' from the python's 'Surface' module": {
+		"description": "'Surface' from the pygame's 'Surface' module",
+		"prefix": "Surface",
+		"body": ["pygame.Surface.Surface(${1:width}, ${2:height})"]},
+	"'_pixels_address' from the python's 'Surface' module": {
+		"description": "'_pixels_address' from the pygame's 'Surface' module",
+		"prefix": "_pixels_address",
+		"body": ["pygame.Surface._pixels_address"]},
+	"'blit' from the python's 'Surface' module": {
+		"description": "'blit' from the pygame's 'Surface' module",
+		"prefix": "blit",
+		"body": ["pygame.Surface.blit(${1:source}, ${2:dest}, ${3:area=None}, ${4:special_flags = 0})"]},
+	"'convert' from the python's 'Surface' module": {
+		"description": "'convert' from the pygame's 'Surface' module",
+		"prefix": "convert",
+		"body": ["pygame.Surface.convert()"]},
+	"'convert' from the python's 'Surface' module": {
+		"description": "'convert' from the pygame's 'Surface' module",
+		"prefix": "convert",
+		"body": ["pygame.Surface.convert()"]},
+	"'convert' from the python's 'Surface' module": {
+		"description": "'convert' from the pygame's 'Surface' module",
+		"prefix": "convert",
+		"body": ["pygame.Surface.convert(${1:depth}, ${2:flags=0})"]},
+	"'convert' from the python's 'Surface' module": {
+		"description": "'convert' from the pygame's 'Surface' module",
+		"prefix": "convert",
+		"body": ["pygame.Surface.convert(${1:masks}, ${2:flags=0})"]},
+	"'convert_alpha' from the python's 'Surface' module": {
+		"description": "'convert_alpha' from the pygame's 'Surface' module",
+		"prefix": "convert_alpha",
+		"body": ["pygame.Surface.convert_alpha()"]},
+	"'convert_alpha' from the python's 'Surface' module": {
+		"description": "'convert_alpha' from the pygame's 'Surface' module",
+		"prefix": "convert_alpha",
+		"body": ["pygame.Surface.convert_alpha()"]},
+	"'copy' from the python's 'Surface' module": {
+		"description": "'copy' from the pygame's 'Surface' module",
+		"prefix": "copy",
+		"body": ["pygame.Surface.copy()"]},
+	"'fill' from the python's 'Surface' module": {
+		"description": "'fill' from the pygame's 'Surface' module",
+		"prefix": "fill",
+		"body": ["pygame.Surface.fill(${1:color}, ${2:rect=None}, ${3:special_flags=0})"]},
+	"'get_abs_offset' from the python's 'Surface' module": {
+		"description": "'get_abs_offset' from the pygame's 'Surface' module",
+		"prefix": "get_abs_offset",
+		"body": ["pygame.Surface.get_abs_offset()"]},
+	"'get_abs_parent' from the python's 'Surface' module": {
+		"description": "'get_abs_parent' from the pygame's 'Surface' module",
+		"prefix": "get_abs_parent",
+		"body": ["pygame.Surface.get_abs_parent()"]},
+	"'get_alpha' from the python's 'Surface' module": {
+		"description": "'get_alpha' from the pygame's 'Surface' module",
+		"prefix": "get_alpha",
+		"body": ["pygame.Surface.get_alpha()"]},
+	"'get_at' from the python's 'Surface' module": {
+		"description": "'get_at' from the pygame's 'Surface' module",
+		"prefix": "get_at",
+		"body": ["pygame.Surface.get_at(${1:x}, ${2:y})"]},
+	"'get_at_mapped' from the python's 'Surface' module": {
+		"description": "'get_at_mapped' from the pygame's 'Surface' module",
+		"prefix": "get_at_mapped",
+		"body": ["pygame.Surface.get_at_mapped(${1:x}, ${2:y})"]},
+	"'get_bitsize' from the python's 'Surface' module": {
+		"description": "'get_bitsize' from the pygame's 'Surface' module",
+		"prefix": "get_bitsize",
+		"body": ["pygame.Surface.get_bitsize()"]},
+	"'get_bounding_rect' from the python's 'Surface' module": {
+		"description": "'get_bounding_rect' from the pygame's 'Surface' module",
+		"prefix": "get_bounding_rect",
+		"body": ["pygame.Surface.get_bounding_rect()"]},
+	"'get_buffer' from the python's 'Surface' module": {
+		"description": "'get_buffer' from the pygame's 'Surface' module",
+		"prefix": "get_buffer",
+		"body": ["pygame.Surface.get_buffer()"]},
+	"'get_bytesize' from the python's 'Surface' module": {
+		"description": "'get_bytesize' from the pygame's 'Surface' module",
+		"prefix": "get_bytesize",
+		"body": ["pygame.Surface.get_bytesize()"]},
+	"'get_clip' from the python's 'Surface' module": {
+		"description": "'get_clip' from the pygame's 'Surface' module",
+		"prefix": "get_clip",
+		"body": ["pygame.Surface.get_clip()"]},
+	"'get_colorkey' from the python's 'Surface' module": {
+		"description": "'get_colorkey' from the pygame's 'Surface' module",
+		"prefix": "get_colorkey",
+		"body": ["pygame.Surface.get_colorkey()"]},
+	"'get_flags' from the python's 'Surface' module": {
+		"description": "'get_flags' from the pygame's 'Surface' module",
+		"prefix": "get_flags",
+		"body": ["pygame.Surface.get_flags()"]},
+	"'get_height' from the python's 'Surface' module": {
+		"description": "'get_height' from the pygame's 'Surface' module",
+		"prefix": "get_height",
+		"body": ["pygame.Surface.get_height()"]},
+	"'get_locked' from the python's 'Surface' module": {
+		"description": "'get_locked' from the pygame's 'Surface' module",
+		"prefix": "get_locked",
+		"body": ["pygame.Surface.get_locked()"]},
+	"'get_locks' from the python's 'Surface' module": {
+		"description": "'get_locks' from the pygame's 'Surface' module",
+		"prefix": "get_locks",
+		"body": ["pygame.Surface.get_locks()"]},
+	"'get_losses' from the python's 'Surface' module": {
+		"description": "'get_losses' from the pygame's 'Surface' module",
+		"prefix": "get_losses",
+		"body": ["pygame.Surface.get_losses()"]},
+	"'get_masks' from the python's 'Surface' module": {
+		"description": "'get_masks' from the pygame's 'Surface' module",
+		"prefix": "get_masks",
+		"body": ["pygame.Surface.get_masks()"]},
+	"'get_offset' from the python's 'Surface' module": {
+		"description": "'get_offset' from the pygame's 'Surface' module",
+		"prefix": "get_offset",
+		"body": ["pygame.Surface.get_offset()"]},
+	"'get_palette' from the python's 'Surface' module": {
+		"description": "'get_palette' from the pygame's 'Surface' module",
+		"prefix": "get_palette",
+		"body": ["pygame.Surface.get_palette()"]},
+	"'get_palette_at' from the python's 'Surface' module": {
+		"description": "'get_palette_at' from the pygame's 'Surface' module",
+		"prefix": "get_palette_at",
+		"body": ["pygame.Surface.get_palette_at()"]},
+	"'get_parent' from the python's 'Surface' module": {
+		"description": "'get_parent' from the pygame's 'Surface' module",
+		"prefix": "get_parent",
+		"body": ["pygame.Surface.get_parent()"]},
+	"'get_pitch' from the python's 'Surface' module": {
+		"description": "'get_pitch' from the pygame's 'Surface' module",
+		"prefix": "get_pitch",
+		"body": ["pygame.Surface.get_pitch()"]},
+	"'get_rect' from the python's 'Surface' module": {
+		"description": "'get_rect' from the pygame's 'Surface' module",
+		"prefix": "get_rect",
+		"body": ["pygame.Surface.get_rect()"]},
+	"'get_shifts' from the python's 'Surface' module": {
+		"description": "'get_shifts' from the pygame's 'Surface' module",
+		"prefix": "get_shifts",
+		"body": ["pygame.Surface.get_shifts()"]},
+	"'get_size' from the python's 'Surface' module": {
+		"description": "'get_size' from the pygame's 'Surface' module",
+		"prefix": "get_size",
+		"body": ["pygame.Surface.get_size()"]},
+	"'get_view' from the python's 'Surface' module": {
+		"description": "'get_view' from the pygame's 'Surface' module",
+		"prefix": "get_view",
+		"body": ["pygame.Surface.get_view()"]},
+	"'get_width' from the python's 'Surface' module": {
+		"description": "'get_width' from the pygame's 'Surface' module",
+		"prefix": "get_width",
+		"body": ["pygame.Surface.get_width()"]},
+	"'lock' from the python's 'Surface' module": {
+		"description": "'lock' from the pygame's 'Surface' module",
+		"prefix": "lock",
+		"body": ["pygame.Surface.lock()"]},
+	"'map_rgb' from the python's 'Surface' module": {
+		"description": "'map_rgb' from the pygame's 'Surface' module",
+		"prefix": "map_rgb",
+		"body": ["pygame.Surface.map_rgb()"]},
+	"'mustlock' from the python's 'Surface' module": {
+		"description": "'mustlock' from the pygame's 'Surface' module",
+		"prefix": "mustlock",
+		"body": ["pygame.Surface.mustlock()"]},
+	"'scroll' from the python's 'Surface' module": {
+		"description": "'scroll' from the pygame's 'Surface' module",
+		"prefix": "scroll",
+		"body": ["pygame.Surface.scroll(${1:dx=0}, ${2:dy=0})"]},
+	"'set_alpha' from the python's 'Surface' module": {
+		"description": "'set_alpha' from the pygame's 'Surface' module",
+		"prefix": "set_alpha",
+		"body": ["pygame.Surface.set_alpha()"]},
+	"'set_alpha' from the python's 'Surface' module": {
+		"description": "'set_alpha' from the pygame's 'Surface' module",
+		"prefix": "set_alpha",
+		"body": ["pygame.Surface.set_alpha(${1:value}, ${2:flags=0})"]},
+	"'set_at' from the python's 'Surface' module": {
+		"description": "'set_at' from the pygame's 'Surface' module",
+		"prefix": "set_at",
+		"body": ["pygame.Surface.set_at(${1:x}, ${2:y})"]},
+	"'set_clip' from the python's 'Surface' module": {
+		"description": "'set_clip' from the pygame's 'Surface' module",
+		"prefix": "set_clip",
+		"body": ["pygame.Surface.set_clip()"]},
+	"'set_clip' from the python's 'Surface' module": {
+		"description": "'set_clip' from the pygame's 'Surface' module",
+		"prefix": "set_clip",
+		"body": ["pygame.Surface.set_clip()"]},
+	"'set_colorkey' from the python's 'Surface' module": {
+		"description": "'set_colorkey' from the pygame's 'Surface' module",
+		"prefix": "set_colorkey",
+		"body": ["pygame.Surface.set_colorkey(${1:Color}, ${2:flags=0})"]},
+	"'set_colorkey' from the python's 'Surface' module": {
+		"description": "'set_colorkey' from the pygame's 'Surface' module",
+		"prefix": "set_colorkey",
+		"body": ["pygame.Surface.set_colorkey()"]},
+	"'set_masks' from the python's 'Surface' module": {
+		"description": "'set_masks' from the pygame's 'Surface' module",
+		"prefix": "set_masks",
+		"body": ["pygame.Surface.set_masks(${1:r}, ${2:g}, ${3:b}, ${4:a})"]},
+	"'set_palette' from the python's 'Surface' module": {
+		"description": "'set_palette' from the pygame's 'Surface' module",
+		"prefix": "set_palette",
+		"body": ["pygame.Surface.set_palette(${1:[RGB}, ${2:RGB}, ${2:RGB}, ${4:...]})"]},
+	"'set_palette_at' from the python's 'Surface' module": {
+		"description": "'set_palette_at' from the pygame's 'Surface' module",
+		"prefix": "set_palette_at",
+		"body": ["pygame.Surface.set_palette_at(${1:index}, ${2:RGB})"]},
+	"'set_shifts' from the python's 'Surface' module": {
+		"description": "'set_shifts' from the pygame's 'Surface' module",
+		"prefix": "set_shifts",
+		"body": ["pygame.Surface.set_shifts(${1:r}, ${2:g}, ${3:b}, ${4:a})"]},
+	"'subsurface' from the python's 'Surface' module": {
+		"description": "'subsurface' from the pygame's 'Surface' module",
+		"prefix": "subsurface",
+		"body": ["pygame.Surface.subsurface()"]},
+	"'unlock' from the python's 'Surface' module": {
+		"description": "'unlock' from the pygame's 'Surface' module",
+		"prefix": "unlock",
+		"body": ["pygame.Surface.unlock()"]},
+	"'unmap_rgb' from the python's 'Surface' module": {
+		"description": "'unmap_rgb' from the pygame's 'Surface' module",
+		"prefix": "unmap_rgb",
+		"body": ["pygame.Surface.unmap_rgb()"]},
+// surfarray
+	"'array2d' from the python's 'surfarray' module": {
+		"description": "'array2d' from the pygame's 'surfarray' module",
+		"prefix": "array2d",
+		"body": ["pygame.surfarray.array2d()"]},
+	"'array3d' from the python's 'surfarray' module": {
+		"description": "'array3d' from the pygame's 'surfarray' module",
+		"prefix": "array3d",
+		"body": ["pygame.surfarray.array3d()"]},
+	"'array_alpha' from the python's 'surfarray' module": {
+		"description": "'array_alpha' from the pygame's 'surfarray' module",
+		"prefix": "array_alpha",
+		"body": ["pygame.surfarray.array_alpha()"]},
+	"'array_colorkey' from the python's 'surfarray' module": {
+		"description": "'array_colorkey' from the pygame's 'surfarray' module",
+		"prefix": "array_colorkey",
+		"body": ["pygame.surfarray.array_colorkey()"]},
+	"'blit_array' from the python's 'surfarray' module": {
+		"description": "'blit_array' from the pygame's 'surfarray' module",
+		"prefix": "blit_array",
+		"body": ["pygame.surfarray.blit_array(${1:Surface}, ${2:array})"]},
+	"'get_arraytype ' from the python's 'surfarray' module": {
+		"description": "'get_arraytype ' from the pygame's 'surfarray' module",
+		"prefix": "get_arraytype ",
+		"body": ["pygame.surfarray.get_arraytype ()"]},
+	"'get_arraytypes ' from the python's 'surfarray' module": {
+		"description": "'get_arraytypes ' from the pygame's 'surfarray' module",
+		"prefix": "get_arraytypes ",
+		"body": ["pygame.surfarray.get_arraytypes ()"]},
+	"'make_surface' from the python's 'surfarray' module": {
+		"description": "'make_surface' from the pygame's 'surfarray' module",
+		"prefix": "make_surface",
+		"body": ["pygame.surfarray.make_surface()"]},
+	"'map_array' from the python's 'surfarray' module": {
+		"description": "'map_array' from the pygame's 'surfarray' module",
+		"prefix": "map_array",
+		"body": ["pygame.surfarray.map_array(${1:Surface}, ${2:array3d})"]},
+	"'pixels2d' from the python's 'surfarray' module": {
+		"description": "'pixels2d' from the pygame's 'surfarray' module",
+		"prefix": "pixels2d",
+		"body": ["pygame.surfarray.pixels2d()"]},
+	"'pixels3d' from the python's 'surfarray' module": {
+		"description": "'pixels3d' from the pygame's 'surfarray' module",
+		"prefix": "pixels3d",
+		"body": ["pygame.surfarray.pixels3d()"]},
+	"'pixels_alpha' from the python's 'surfarray' module": {
+		"description": "'pixels_alpha' from the pygame's 'surfarray' module",
+		"prefix": "pixels_alpha",
+		"body": ["pygame.surfarray.pixels_alpha()"]},
+	"'pixels_blue ' from the python's 'surfarray' module": {
+		"description": "'pixels_blue ' from the pygame's 'surfarray' module",
+		"prefix": "pixels_blue ",
+		"body": ["pygame.surfarray.pixels_blue ()"]},
+	"'pixels_green ' from the python's 'surfarray' module": {
+		"description": "'pixels_green ' from the pygame's 'surfarray' module",
+		"prefix": "pixels_green ",
+		"body": ["pygame.surfarray.pixels_green ()"]},
+	"'pixels_red ' from the python's 'surfarray' module": {
+		"description": "'pixels_red ' from the pygame's 'surfarray' module",
+		"prefix": "pixels_red ",
+		"body": ["pygame.surfarray.pixels_red ()"]},
+	"'use_arraytype ' from the python's 'surfarray' module": {
+		"description": "'use_arraytype ' from the pygame's 'surfarray' module",
+		"prefix": "use_arraytype ",
+		"body": ["pygame.surfarray.use_arraytype ()"]},
+// tests
+	"'run' from the python's 'tests' module": {
+		"description": "'run' from the pygame's 'tests' module",
+		"prefix": "run",
+		"body": ["pygame.tests.run(${1:*args}, ${2:**kwds})"]},
+// time
+	"'Clock' from the python's 'time' module": {
+		"description": "'Clock' from the pygame's 'time' module",
+		"prefix": "Clock",
+		"body": ["pygame.time.Clock()"]},
+	"'delay' from the python's 'time' module": {
+		"description": "'delay' from the pygame's 'time' module",
+		"prefix": "delay",
+		"body": ["pygame.time.delay()"]},
+	"'get_fps' from the python's 'time' module": {
+		"description": "'get_fps' from the pygame's 'time' module",
+		"prefix": "get_fps",
+		"body": ["pygame.time.get_fps()"]},
+	"'get_rawtime' from the python's 'time' module": {
+		"description": "'get_rawtime' from the pygame's 'time' module",
+		"prefix": "get_rawtime",
+		"body": ["pygame.time.get_rawtime()"]},
+	"'get_ticks' from the python's 'time' module": {
+		"description": "'get_ticks' from the pygame's 'time' module",
+		"prefix": "get_ticks",
+		"body": ["pygame.time.get_ticks()"]},
+	"'get_time' from the python's 'time' module": {
+		"description": "'get_time' from the pygame's 'time' module",
+		"prefix": "get_time",
+		"body": ["pygame.time.get_time()"]},
+	"'set_timer' from the python's 'time' module": {
+		"description": "'set_timer' from the pygame's 'time' module",
+		"prefix": "set_timer",
+		"body": ["pygame.time.set_timer(${1:eventid}, ${2:milliseconds})"]},
+	"'tick' from the python's 'time' module": {
+		"description": "'tick' from the pygame's 'time' module",
+		"prefix": "tick",
+		"body": ["pygame.time.tick()"]},
+	"'tick_busy_loop' from the python's 'time' module": {
+		"description": "'tick_busy_loop' from the pygame's 'time' module",
+		"prefix": "tick_busy_loop",
+		"body": ["pygame.time.tick_busy_loop()"]},
+	"'wait' from the python's 'time' module": {
+		"description": "'wait' from the pygame's 'time' module",
+		"prefix": "wait",
+		"body": ["pygame.time.wait()"]},
+// transform
+	"'average_color' from the python's 'transform' module": {
+		"description": "'average_color' from the pygame's 'transform' module",
+		"prefix": "average_color",
+		"body": ["pygame.transform.average_color(${1:Surface}, ${2:Rect = None})"]},
+	"'average_surfaces' from the python's 'transform' module": {
+		"description": "'average_surfaces' from the pygame's 'transform' module",
+		"prefix": "average_surfaces",
+		"body": ["pygame.transform.average_surfaces(${1:Surfaces}, ${2:DestSurface = None}, ${3:palette_colors = 1})"]},
+	"'chop' from the python's 'transform' module": {
+		"description": "'chop' from the pygame's 'transform' module",
+		"prefix": "chop",
+		"body": ["pygame.transform.chop(${1:Surface}, ${2:rect})"]},
+	"'flip' from the python's 'transform' module": {
+		"description": "'flip' from the pygame's 'transform' module",
+		"prefix": "flip",
+		"body": ["pygame.transform.flip(${1:Surface}, ${2:xbool}, ${3:ybool})"]},
+	"'get_smoothscale_backend' from the python's 'transform' module": {
+		"description": "'get_smoothscale_backend' from the pygame's 'transform' module",
+		"prefix": "get_smoothscale_backend",
+		"body": ["pygame.transform.get_smoothscale_backend()"]},
+	"'laplacian' from the python's 'transform' module": {
+		"description": "'laplacian' from the pygame's 'transform' module",
+		"prefix": "laplacian",
+		"body": ["pygame.transform.laplacian(${1:Surface}, ${2:DestSurface = None})"]},
+	"'rotate' from the python's 'transform' module": {
+		"description": "'rotate' from the pygame's 'transform' module",
+		"prefix": "rotate",
+		"body": ["pygame.transform.rotate(${1:Surface}, ${2:angle})"]},
+	"'rotozoom' from the python's 'transform' module": {
+		"description": "'rotozoom' from the pygame's 'transform' module",
+		"prefix": "rotozoom",
+		"body": ["pygame.transform.rotozoom(${1:Surface}, ${2:angle}, ${3:scale})"]},
+	"'scale' from the python's 'transform' module": {
+		"description": "'scale' from the pygame's 'transform' module",
+		"prefix": "scale",
+		"body": ["pygame.transform.scale(${1:Surface}, ${2:width}, ${3:height})"]},
+	"'scale2x' from the python's 'transform' module": {
+		"description": "'scale2x' from the pygame's 'transform' module",
+		"prefix": "scale2x",
+		"body": ["pygame.transform.scale2x(${1:Surface}, ${2:DestSurface = None})"]},
+	"'set_smoothscale_backend' from the python's 'transform' module": {
+		"description": "'set_smoothscale_backend' from the pygame's 'transform' module",
+		"prefix": "set_smoothscale_backend",
+		"body": ["pygame.transform.set_smoothscale_backend()"]},
+	"'smoothscale' from the python's 'transform' module": {
+		"description": "'smoothscale' from the pygame's 'transform' module",
+		"prefix": "smoothscale",
+		"body": ["pygame.transform.smoothscale(${1:Surface}, ${2:width}, ${3:height})"]},
+	"'threshold' from the python's 'transform' module": {
+		"description": "'threshold' from the pygame's 'transform' module",
+		"prefix": "threshold",
+		"body": ["pygame.transform.threshold(${1:DestSurface}, ${2:Surface}, ${3:color}, ${4:threshold = 0}, ${5:0}, ${5:0}, ${5:0}, )"]},
+}
