@@ -23,6 +23,3 @@ Feel free to contribute to the extension. Fork it on [github](https://github.com
 ## License
 
 Read LICENSE on the [github](https://github.com/tushortz/vscode-Pygame-Snippets) repository
-
-## Acknowledgements
-I'd first like to say a very big thank you to God my creator. Without him, this wouldn't be possible.
