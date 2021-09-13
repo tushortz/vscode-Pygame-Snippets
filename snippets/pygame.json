@@ -105,15 +105,11 @@
 	"'Color' from the python's 'Color' module": {
 		"description": "'Color' from the pygame's 'Color' module",
 		"prefix": "Color",
-		"body": ["pygame.Color.Color()"]},
+		"body": ["pygame.Color()"]},
 	"'Color' from the python's 'Color' module": {
 		"description": "'Color' from the pygame's 'Color' module",
 		"prefix": "Color",
 		"body": ["pygame.Color.Color(${1:r}, ${2:g}, ${3:b}, ${4:a})"]},
-	"'Color' from the python's 'Color' module": {
-		"description": "'Color' from the pygame's 'Color' module",
-		"prefix": "Color",
-		"body": ["pygame.Color.Color()"]},
 	"'a' from the python's 'Color' module": {
 		"description": "'a' from the pygame's 'Color' module",
 		"prefix": "a",
